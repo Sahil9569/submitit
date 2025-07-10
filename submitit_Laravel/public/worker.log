@@ -1,0 +1,1780 @@
+
+   INFO  Processing jobs from the [default] queue.  
+
+
+   INFO  Processing jobs from the [default] queue.  
+
+
+   INFO  Processing jobs from the [default] queue.  
+
+
+   INFO  Processing jobs from the [default] queue.  
+
+
+   INFO  Processing jobs from the [default] queue.  
+
+
+   INFO  Processing jobs from the [default] queue.  
+
+
+   INFO  Processing jobs from the [default] queue.  
+
+
+   INFO  Processing jobs from the [default] queue.  
+
+  2023-09-06 10:15:30 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:15:30 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:15:30 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:15:36 App\Jobs\TaskAutomate  2023-09-06 10:15:36 App\Jobs\TaskAutomate  2023-09-06 10:15:36 App\Jobs\TaskAutomate .......................... .......................... .......................... RUNNING
+ RUNNING
+ RUNNING
+  2023-09-06 10:15:36 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:15:36 App\Jobs\TaskAutomate ....................  2023-09-06 10:15:36 App\Jobs\TaskAutomate .................... 129.69ms FAIL
+ 126.88ms  2023-09-06 10:15:36 App\Jobs\TaskAutomate .................... 127.60ms FAIL
+ FAIL
+  2023-09-06 10:15:36 App\Jobs\TaskAutomate .................... 140.16ms FAIL
+  2023-09-06 10:15:37 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:15:37 App\Jobs\TaskAutomate .................... 189.25ms FAIL
+  2023-09-06 10:15:37 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:15:37 App\Jobs\TaskAutomate  2023-09-06 10:15:37 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:15:37 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:15:37 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:15:37 App\Jobs\TaskAutomate .....................  2023-09-06 10:15:37 App\Jobs\TaskAutomate ..................... 97.90ms FAIL
+  2023-09-06 10:15:37 App\Jobs\TaskAutomate .................... 102.94ms FAIL
+ 92.08ms FAIL
+  2023-09-06 10:15:37 App\Jobs\TaskAutomate .................... 106.92ms FAIL
+  2023-09-06 10:15:37 App\Jobs\TaskAutomate .................... 140.26ms FAIL
+  2023-09-06 10:15:39 App\Jobs\TaskAutomate  2023-09-06 10:15:39 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:15:39 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:15:40 App\Jobs\TaskAutomate .................. 1,124.23ms FAIL
+  2023-09-06 10:15:40 App\Jobs\TaskAutomate .................. 1,123.02ms FAIL
+  2023-09-06 10:15:40 App\Jobs\TaskAutomate .................. 1,866.00ms FAIL
+  2023-09-06 10:15:41 App\Jobs\TaskAutomate  2023-09-06 10:15:41 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:15:41 App\Jobs\TaskAutomate  2023-09-06 10:15:41 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:15:41 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:15:41 App\Jobs\TaskAutomate ..................... 93.76ms FAIL
+  2023-09-06 10:15:41 App\Jobs\TaskAutomate .....................  2023-09-06 10:15:41 App\Jobs\TaskAutomate  2023-09-06 10:15:41 App\Jobs\TaskAutomate  2023-09-06 10:15:41 App\Jobs\TaskAutomate ..................... 91.95ms 97.85ms FAIL
+ ..................... FAIL
+ 96.16ms ..................... FAIL
+ 99.79ms FAIL
+  2023-09-06 10:15:43 App\Jobs\TaskAutomate  2023-09-06 10:15:43 App\Jobs\TaskAutomate  2023-09-06 10:15:43 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:15:49 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:15:49 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:15:49 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:15:49 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:15:49 App\Jobs\TaskAutomate ..................... 75.84ms FAIL
+  2023-09-06 10:15:49 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:15:49 App\Jobs\TaskAutomate .................... 113.61ms FAIL
+  2023-09-06 10:15:49 App\Jobs\TaskAutomate .................... 122.42ms FAIL
+  2023-09-06 10:15:49 App\Jobs\TaskAutomate .................... 120.54ms FAIL
+  2023-09-06 10:15:49 App\Jobs\TaskAutomate ..................... 85.69ms FAIL
+  2023-09-06 10:15:56 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:04 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:18 App\Jobs\TaskAutomate  2023-09-06 10:16:18 App\Jobs\TaskAutomate  2023-09-06 10:16:18 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:16:18 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:16:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:18 App\Jobs\TaskAutomate ..................... 93.93ms FAIL
+  2023-09-06 10:16:18 App\Jobs\TaskAutomate  2023-09-06 10:16:18 App\Jobs\TaskAutomate .................... 121.24ms FAIL
+ ....................  2023-09-06 10:16:18 App\Jobs\TaskAutomate .................... 142.61ms FAIL
+ 108.29ms FAIL
+  2023-09-06 10:16:18 App\Jobs\TaskAutomate .................... 132.92ms FAIL
+  2023-09-06 10:16:18 App\Jobs\TaskAutomate .................... 103.53ms FAIL
+  2023-09-06 10:16:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:29 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:29 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:29 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:29 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:29 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:36 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:36 App\Jobs\TaskAutomate ..................... 51.55ms FAIL
+  2023-09-06 10:16:37 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:37 App\Jobs\TaskAutomate  2023-09-06 10:16:37 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:16:37 App\Jobs\TaskAutomate ..................... 75.00ms FAIL
+  2023-09-06 10:16:37 App\Jobs\TaskAutomate ..................... 92.13ms FAIL
+  2023-09-06 10:16:37 App\Jobs\TaskAutomate ..................... 96.74ms FAIL
+  2023-09-06 10:16:37 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:38 App\Jobs\TaskAutomate .................... 110.14ms FAIL
+  2023-09-06 10:16:38 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:38 App\Jobs\TaskAutomate .................... 141.45ms FAIL
+  2023-09-06 10:16:39 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:39 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:39 App\Jobs\TaskAutomate ....................  2023-09-06 10:16:39 App\Jobs\TaskAutomate .......................... RUNNING
+ 118.85ms FAIL
+  2023-09-06 10:16:39 App\Jobs\TaskAutomate .................... 100.56ms FAIL
+  2023-09-06 10:16:39 App\Jobs\TaskAutomate .................... 133.14ms FAIL
+  2023-09-06 10:16:39 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:39 App\Jobs\TaskAutomate ..................... 70.36ms FAIL
+  2023-09-06 10:16:39 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:39 App\Jobs\TaskAutomate ..................... 99.49ms FAIL
+  2023-09-06 10:16:40 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:40 App\Jobs\TaskAutomate ..................... 89.52ms FAIL
+  2023-09-06 10:16:40 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:40 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:40 App\Jobs\TaskAutomate .................... 138.91ms FAIL
+  2023-09-06 10:16:40 App\Jobs\TaskAutomate .................... 146.75ms FAIL
+  2023-09-06 10:16:40 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:40 App\Jobs\TaskAutomate .................... 141.02ms FAIL
+  2023-09-06 10:16:40 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:40 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:40 App\Jobs\TaskAutomate ..................... 94.26ms FAIL
+  2023-09-06 10:16:40 App\Jobs\TaskAutomate ..................... 97.42ms FAIL
+  2023-09-06 10:16:41 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:41 App\Jobs\TaskAutomate ..................... 82.78ms FAIL
+  2023-09-06 10:16:41 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:41 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:41 App\Jobs\TaskAutomate ..................... 83.44ms FAIL
+  2023-09-06 10:16:41 App\Jobs\TaskAutomate ..................... 87.57ms FAIL
+  2023-09-06 10:16:42 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:42 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:42 App\Jobs\TaskAutomate .................... 140.81ms FAIL
+  2023-09-06 10:16:42 App\Jobs\TaskAutomate .................... 254.69ms FAIL
+  2023-09-06 10:16:42 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:42 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:42 App\Jobs\TaskAutomate ..................... 99.52ms FAIL
+  2023-09-06 10:16:42 App\Jobs\TaskAutomate ..................... 95.19ms FAIL
+  2023-09-06 10:16:42 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:42 App\Jobs\TaskAutomate ..................... 98.85ms FAIL
+  2023-09-06 10:16:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:43 App\Jobs\TaskAutomate ..................... 63.64ms FAIL
+  2023-09-06 10:16:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:43 App\Jobs\TaskAutomate .................... 125.12ms FAIL
+  2023-09-06 10:16:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:43 App\Jobs\TaskAutomate ..................... 92.53ms FAIL
+  2023-09-06 10:16:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:43 App\Jobs\TaskAutomate .................... 168.62ms FAIL
+  2023-09-06 10:16:43 App\Jobs\TaskAutomate .................... 159.49ms FAIL
+  2023-09-06 10:16:44 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:44 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:44 App\Jobs\TaskAutomate ..................... 84.97ms FAIL
+  2023-09-06 10:16:44 App\Jobs\TaskAutomate ..................... 89.05ms FAIL
+  2023-09-06 10:16:44 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:44 App\Jobs\TaskAutomate ..................... 75.43ms FAIL
+  2023-09-06 10:16:45 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:45 App\Jobs\TaskAutomate .................... 117.20ms FAIL
+  2023-09-06 10:16:45 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:45 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:16:45 App\Jobs\TaskAutomate ..................... 89.11ms FAIL
+  2023-09-06 10:16:45 App\Jobs\TaskAutomate ..................... 95.21ms FAIL
+  2023-09-06 10:16:46 App\Jobs\TaskAutomate  2023-09-06 10:16:46 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:17:02 App\Jobs\TaskAutomate ................. 16,595.21ms FAIL
+  2023-09-06 10:17:02 App\Jobs\TaskAutomate ................. 16,598.74ms FAIL
+  2023-09-06 10:17:03 App\Jobs\TaskAutomate  2023-09-06 10:17:03 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:17:03 App\Jobs\TaskAutomate  2023-09-06 10:17:03 App\Jobs\TaskAutomate .................... 696.02ms FAIL
+ .......................... RUNNING
+  2023-09-06 10:17:04 App\Jobs\TaskAutomate .................... 736.64ms FAIL
+  2023-09-06 10:17:04 App\Jobs\TaskAutomate .................... 137.28ms FAIL
+  2023-09-06 10:17:04 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:17:04 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:17:04 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:17:04 App\Jobs\TaskAutomate .................... 130.77ms FAIL
+  2023-09-06 10:17:04 App\Jobs\TaskAutomate .................... 113.05ms FAIL
+  2023-09-06 10:17:04 App\Jobs\TaskAutomate .................... 126.70ms FAIL
+  2023-09-06 10:17:46 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:17:46 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:17:47 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:17:47 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:17:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:18:00 App\Jobs\TaskAutomate  2023-09-06 10:18:00 App\Jobs\TaskAutomate  2023-09-06 10:18:00 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:18:00 App\Jobs\TaskAutomate ..................... 83.89ms FAIL
+  2023-09-06 10:18:00 App\Jobs\TaskAutomate ..................... 87.48ms  2023-09-06 10:18:00 App\Jobs\TaskAutomate FAIL
+ ..................... 91.64ms FAIL
+  2023-09-06 10:18:05 App\Jobs\TaskAutomate  2023-09-06 10:18:05 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:18:05 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:18:05 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:18:05 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:18:15 App\Jobs\TaskAutomate  2023-09-06 10:18:15 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:18:15 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:18:15 App\Jobs\TaskAutomate ..................... 71.14ms FAIL
+  2023-09-06 10:18:15 App\Jobs\TaskAutomate ..................... 83.08ms FAIL
+  2023-09-06 10:18:15 App\Jobs\TaskAutomate .................... 100.11ms FAIL
+  2023-09-06 10:18:17 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:18:18 App\Jobs\TaskAutomate  2023-09-06 10:18:18 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:18:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:18:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:18:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:18:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:18:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:18:27 App\Jobs\TaskAutomate  2023-09-06 10:18:27 App\Jobs\TaskAutomate ..................... 90.06ms FAIL
+ ..................... 89.92ms FAIL
+  2023-09-06 10:18:27 App\Jobs\TaskAutomate ..................... 94.73ms FAIL
+  2023-09-06 10:18:27 App\Jobs\TaskAutomate .................... 101.75ms FAIL
+  2023-09-06 10:18:27 App\Jobs\TaskAutomate .................... 111.12ms FAIL
+  2023-09-06 10:19:35 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:19:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:19:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:19:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:19:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:19:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:19:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:01 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:12 App\Jobs\TaskAutomate  2023-09-06 10:20:12 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:12 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:12 App\Jobs\TaskAutomate  2023-09-06 10:20:12 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:20:12 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:12 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:20:12 App\Jobs\TaskAutomate ....................  2023-09-06 10:20:12 App\Jobs\TaskAutomate .................... 304.47ms FAIL
+  2023-09-06 10:20:12 App\Jobs\TaskAutomate  2023-09-06 10:20:12 App\Jobs\TaskAutomate .................... 301.42ms FAIL
+  2023-09-06 10:20:12 App\Jobs\TaskAutomate .................... 284.94ms FAIL
+  2023-09-06 10:20:12 App\Jobs\TaskAutomate .................... 268.05ms FAIL
+  2023-09-06 10:20:12 App\Jobs\TaskAutomate .................... 282.47ms FAIL
+ .................... 304.90ms FAIL
+ 299.93ms FAIL
+  2023-09-06 10:20:14 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:14 App\Jobs\TaskAutomate .................... 163.16ms FAIL
+  2023-09-06 10:20:14 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:14 App\Jobs\TaskAutomate  2023-09-06 10:20:14 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:20:14 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:14 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:14 App\Jobs\TaskAutomate ..................... 93.13ms FAIL
+  2023-09-06 10:20:14 App\Jobs\TaskAutomate  2023-09-06 10:20:14 App\Jobs\TaskAutomate  2023-09-06 10:20:14 App\Jobs\TaskAutomate .................... .................... 120.39ms FAIL
+ 119.09ms FAIL
+ .......................... RUNNING
+  2023-09-06 10:20:14 App\Jobs\TaskAutomate .................... 116.23ms FAIL
+  2023-09-06 10:20:14 App\Jobs\TaskAutomate ..........................  2023-09-06 10:20:14 App\Jobs\TaskAutomate .................... 110.75ms FAIL
+ RUNNING
+  2023-09-06 10:20:14 App\Jobs\TaskAutomate ..................... 99.91ms FAIL
+  2023-09-06 10:20:14 App\Jobs\TaskAutomate ..................... 87.41ms FAIL
+  2023-09-06 10:20:16 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:16 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:16 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:17 App\Jobs\TaskAutomate .................. 1,731.76ms FAIL
+  2023-09-06 10:20:17 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:18 App\Jobs\TaskAutomate .................. 2,107.58ms FAIL
+  2023-09-06 10:20:18 App\Jobs\TaskAutomate .................. 2,148.29ms FAIL
+  2023-09-06 10:20:18 App\Jobs\TaskAutomate .................... 417.84ms FAIL
+  2023-09-06 10:20:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:18 App\Jobs\TaskAutomate .................... 135.05ms FAIL
+  2023-09-06 10:20:18 App\Jobs\TaskAutomate .................... 124.62ms FAIL
+  2023-09-06 10:20:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:18 App\Jobs\TaskAutomate .................... 106.13ms FAIL
+  2023-09-06 10:20:18 App\Jobs\TaskAutomate .................... 109.13ms FAIL
+  2023-09-06 10:20:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:20 App\Jobs\TaskAutomate .................... 136.47ms FAIL
+  2023-09-06 10:20:20 App\Jobs\TaskAutomate .................... 162.81ms FAIL
+  2023-09-06 10:20:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:20 App\Jobs\TaskAutomate  2023-09-06 10:20:20 App\Jobs\TaskAutomate .................... 188.68ms FAIL
+ .......................... RUNNING
+  2023-09-06 10:20:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:20 App\Jobs\TaskAutomate .................... 351.77ms FAIL
+  2023-09-06 10:20:20 App\Jobs\TaskAutomate .................... 190.93ms FAIL
+  2023-09-06 10:20:20 App\Jobs\TaskAutomate .................... 176.89ms FAIL
+  2023-09-06 10:20:20 App\Jobs\TaskAutomate .................... 131.42ms FAIL
+  2023-09-06 10:20:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:20 App\Jobs\TaskAutomate ..................... 90.98ms FAIL
+  2023-09-06 10:20:21 App\Jobs\TaskAutomate  2023-09-06 10:20:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:21 App\Jobs\TaskAutomate ..........................  2023-09-06 10:20:21 App\Jobs\TaskAutomate  2023-09-06 10:20:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:21 App\Jobs\TaskAutomate RUNNING
+ .......................... RUNNING
+ .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:20:22 App\Jobs\TaskAutomate .................... 600.32ms FAIL
+  2023-09-06 10:20:22 App\Jobs\TaskAutomate .................... 602.92ms FAIL
+  2023-09-06 10:20:22 App\Jobs\TaskAutomate .................... 603.47ms FAIL
+  2023-09-06 10:20:22 App\Jobs\TaskAutomate .................... 637.93ms FAIL
+  2023-09-06 10:20:22 App\Jobs\TaskAutomate .................... 674.76ms FAIL
+  2023-09-06 10:20:22 App\Jobs\TaskAutomate .................... 638.53ms FAIL
+  2023-09-06 10:20:22 App\Jobs\TaskAutomate .................... 634.18ms FAIL
+  2023-09-06 10:20:22 App\Jobs\TaskAutomate .................... 611.17ms FAIL
+  2023-09-06 10:20:24 App\Jobs\TaskAutomate  2023-09-06 10:20:24 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:20:24 App\Jobs\TaskAutomate  2023-09-06 10:20:24 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:25 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:20:25 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:25 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:20:26 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:08 App\Jobs\TaskAutomate  2023-09-06 10:21:08 App\Jobs\TaskAutomate  2023-09-06 10:21:08 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:21:08 App\Jobs\TaskAutomate  2023-09-06 10:21:08 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:08 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:21:08 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:15 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:20 App\Jobs\TaskAutomate ................. 11,571.84ms FAIL
+  2023-09-06 10:21:20 App\Jobs\TaskAutomate ................. 11,565.66ms FAIL
+  2023-09-06 10:21:20 App\Jobs\TaskAutomate ................. 11,551.06ms FAIL
+  2023-09-06 10:21:20 App\Jobs\TaskAutomate ................. 11,579.53ms FAIL
+  2023-09-06 10:21:20 App\Jobs\TaskAutomate ................. 11,561.84ms FAIL
+  2023-09-06 10:21:20 App\Jobs\TaskAutomate ................. 11,566.14ms FAIL
+  2023-09-06 10:21:20 App\Jobs\TaskAutomate ................. 11,991.26ms FAIL
+  2023-09-06 10:21:20 App\Jobs\TaskAutomate .................. 5,181.36ms FAIL
+  2023-09-06 10:21:22 App\Jobs\TaskAutomate  2023-09-06 10:21:22 App\Jobs\TaskAutomate .......................... RUNNING
+ ..........................  2023-09-06 10:21:22 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:21:22 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:22 App\Jobs\TaskAutomate  2023-09-06 10:21:22 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:21:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:32 App\Jobs\TaskAutomate ................. 10,047.28ms FAIL
+  2023-09-06 10:21:32 App\Jobs\TaskAutomate .................  2023-09-06 10:21:32 App\Jobs\TaskAutomate .................  2023-09-06 10:21:32 App\Jobs\TaskAutomate ................. 10,125.98ms FAIL
+  2023-09-06 10:21:32 App\Jobs\TaskAutomate ................. 10,186.76ms FAIL
+  2023-09-06 10:21:32 App\Jobs\TaskAutomate ................. 10,045.95ms FAIL
+ 10,189.16ms FAIL
+ 10,190.26ms FAIL
+  2023-09-06 10:21:32 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:32 App\Jobs\TaskAutomate .................... 542.19ms FAIL
+  2023-09-06 10:21:32 App\Jobs\TaskAutomate .................... 123.74ms FAIL
+  2023-09-06 10:21:33 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:33 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:33 App\Jobs\TaskAutomate  2023-09-06 10:21:33 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:21:34 App\Jobs\TaskAutomate  2023-09-06 10:21:34 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:21:34 App\Jobs\TaskAutomate .................... 241.03ms FAIL
+  2023-09-06 10:21:34 App\Jobs\TaskAutomate .................... 255.86ms FAIL
+  2023-09-06 10:21:34 App\Jobs\TaskAutomate  2023-09-06 10:21:34 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:21:34 App\Jobs\TaskAutomate .................... 562.03ms FAIL
+  2023-09-06 10:21:34 App\Jobs\TaskAutomate .................... 561.86ms FAIL
+  2023-09-06 10:21:34 App\Jobs\TaskAutomate .................... 440.88ms FAIL
+  2023-09-06 10:21:34 App\Jobs\TaskAutomate .................... 448.38ms FAIL
+  2023-09-06 10:21:34 App\Jobs\TaskAutomate ....................  2023-09-06 10:21:34 App\Jobs\TaskAutomate 345.50ms FAIL
+ .................... 362.58ms FAIL
+  2023-09-06 10:21:35 App\Jobs\TaskAutomate  2023-09-06 10:21:35 App\Jobs\TaskAutomate  2023-09-06 10:21:35 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:21:36 App\Jobs\TaskAutomate  2023-09-06 10:21:36 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:21:36 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:36 App\Jobs\TaskAutomate  2023-09-06 10:21:36 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:21:48 App\Jobs\TaskAutomate  2023-09-06 10:21:48 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:48 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:21:48 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:48 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:48 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:48 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:48 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:48 App\Jobs\TaskAutomate .................... 278.08ms FAIL
+  2023-09-06 10:21:48 App\Jobs\TaskAutomate .................... 307.36ms FAIL
+  2023-09-06 10:21:48 App\Jobs\TaskAutomate .................... 347.11ms FAIL
+  2023-09-06 10:21:48 App\Jobs\TaskAutomate .................... 344.97ms FAIL
+  2023-09-06 10:21:48 App\Jobs\TaskAutomate .................... 346.24ms FAIL
+  2023-09-06 10:21:49 App\Jobs\TaskAutomate .................... 971.95ms FAIL
+  2023-09-06 10:21:49 App\Jobs\TaskAutomate .................... 996.14ms FAIL
+  2023-09-06 10:21:49 App\Jobs\TaskAutomate .................... 868.16ms FAIL
+  2023-09-06 10:21:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:50 App\Jobs\TaskAutomate  2023-09-06 10:21:50 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:21:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:21:53 App\Jobs\TaskAutomate .................. 2,533.73ms FAIL
+  2023-09-06 10:21:53 App\Jobs\TaskAutomate .................. 2,538.14ms FAIL
+  2023-09-06 10:21:53 App\Jobs\TaskAutomate .................. 2,532.69ms FAIL
+  2023-09-06 10:21:53 App\Jobs\TaskAutomate .................. 2,518.56ms FAIL
+  2023-09-06 10:21:53 App\Jobs\TaskAutomate .................. 2,559.16ms FAIL
+  2023-09-06 10:21:53 App\Jobs\TaskAutomate .................. 2,555.27ms FAIL
+  2023-09-06 10:21:53 App\Jobs\TaskAutomate .................. 2,542.56ms FAIL
+  2023-09-06 10:21:54 App\Jobs\TaskAutomate .................. 3,318.50ms FAIL
+  2023-09-06 10:22:01 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:22:01 App\Jobs\TaskAutomate  2023-09-06 10:22:01 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:22:01 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:22:01 App\Jobs\TaskAutomate  2023-09-06 10:22:01 App\Jobs\TaskAutomate  2023-09-06 10:22:01 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:22:01 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:22:08 App\Jobs\TaskAutomate  2023-09-06 10:22:08 App\Jobs\TaskAutomate .................. .................. 7,230.32ms FAIL
+ 7,255.05ms FAIL
+  2023-09-06 10:22:08 App\Jobs\TaskAutomate .................. 7,650.63ms FAIL
+  2023-09-06 10:22:08 App\Jobs\TaskAutomate .................. 7,623.54ms FAIL
+  2023-09-06 10:22:08 App\Jobs\TaskAutomate .................. 7,639.46ms FAIL
+  2023-09-06 10:22:09 App\Jobs\TaskAutomate .................. 7,691.39ms FAIL
+  2023-09-06 10:22:09 App\Jobs\TaskAutomate .................. 7,680.98ms FAIL
+  2023-09-06 10:22:09 App\Jobs\TaskAutomate .................. 7,673.07ms FAIL
+  2023-09-06 10:23:13 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:13 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:13 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:14 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:28 App\Jobs\TaskAutomate  2023-09-06 10:23:28 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:28 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:23:28 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:28 App\Jobs\TaskAutomate ..................... 78.20ms FAIL
+  2023-09-06 10:23:28 App\Jobs\TaskAutomate ..................... 89.31ms FAIL
+  2023-09-06 10:23:28 App\Jobs\TaskAutomate .................... 164.89ms FAIL
+  2023-09-06 10:23:28 App\Jobs\TaskAutomate .................... 157.72ms FAIL
+  2023-09-06 10:23:29 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:29 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:29 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:29 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:30 App\Jobs\TaskAutomate  2023-09-06 10:23:30 App\Jobs\TaskAutomate .................... 940.75ms FAIL
+  2023-09-06 10:23:30 App\Jobs\TaskAutomate .................... 946.28ms FAIL
+ ....................  2023-09-06 10:23:30 App\Jobs\TaskAutomate .................... 971.13ms FAIL
+ 949.23ms FAIL
+  2023-09-06 10:23:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:31 App\Jobs\TaskAutomate ..................... 80.55ms FAIL
+  2023-09-06 10:23:31 App\Jobs\TaskAutomate .................... 109.13ms FAIL
+  2023-09-06 10:23:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:31 App\Jobs\TaskAutomate .................... 110.35ms FAIL
+  2023-09-06 10:23:31 App\Jobs\TaskAutomate ..................... 68.34ms FAIL
+  2023-09-06 10:23:32 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:32 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:32 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:32 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:48 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:48 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:48 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:48 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:48 App\Jobs\TaskAutomate  2023-09-06 10:23:48 App\Jobs\TaskAutomate .................... 111.00ms FAIL
+ .................... 108.14ms FAIL
+  2023-09-06 10:23:48 App\Jobs\TaskAutomate .................... 106.95ms FAIL
+  2023-09-06 10:23:48 App\Jobs\TaskAutomate .................... 115.62ms FAIL
+  2023-09-06 10:23:53 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:23:53 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:24:30 App\Jobs\TaskAutomate  2023-09-06 10:24:30 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:24:30 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:25:04 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:25:04 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:25:10 App\Jobs\TaskAutomate  2023-09-06 10:25:10 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+  2023-09-06 10:25:10 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:25:10 App\Jobs\TaskAutomate .................... 101.64ms FAIL
+  2023-09-06 10:25:10 App\Jobs\TaskAutomate  2023-09-06 10:25:10 App\Jobs\TaskAutomate .................... 106.52ms FAIL
+ .................... 109.65ms FAIL
+  2023-09-06 10:27:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:35 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:40 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:40 App\Jobs\TaskAutomate  2023-09-06 10:27:40 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:27:42 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:42 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:42 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:42 App\Jobs\TaskAutomate .................. 2,177.54ms FAIL
+  2023-09-06 10:27:42 App\Jobs\TaskAutomate .................. 2,162.08ms FAIL
+  2023-09-06 10:27:42 App\Jobs\TaskAutomate .................. 2,161.05ms FAIL
+  2023-09-06 10:27:44 App\Jobs\TaskAutomate .................. 1,680.67ms FAIL
+  2023-09-06 10:27:44 App\Jobs\TaskAutomate .................. 1,435.88ms FAIL
+  2023-09-06 10:27:44 App\Jobs\TaskAutomate .................. 1,436.95ms FAIL
+  2023-09-06 10:27:44 App\Jobs\TaskAutomate  2023-09-06 10:27:44 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:27:45 App\Jobs\TaskAutomate  2023-09-06 10:27:45 App\Jobs\TaskAutomate ..................... ..................... 96.16ms 97.80ms FAIL
+ FAIL
+  2023-09-06 10:27:45 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:45 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:45 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:45 App\Jobs\TaskAutomate ..........................  2023-09-06 10:27:45 App\Jobs\TaskAutomate RUNNING
+ .......................... RUNNING
+  2023-09-06 10:27:48 App\Jobs\TaskAutomate .................. 2,343.04ms FAIL
+  2023-09-06 10:27:48 App\Jobs\TaskAutomate .................. 2,400.61ms FAIL
+  2023-09-06 10:27:50 App\Jobs\TaskAutomate .................. 4,722.16ms FAIL
+  2023-09-06 10:27:50 App\Jobs\TaskAutomate .................. 4,712.72ms  2023-09-06 10:27:50 App\Jobs\TaskAutomate .................. 4,711.66ms FAIL
+ FAIL
+  2023-09-06 10:27:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:50 App\Jobs\TaskAutomate .................... 133.09ms FAIL
+  2023-09-06 10:27:51 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:51 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:51 App\Jobs\TaskAutomate ..................... 81.93ms FAIL
+  2023-09-06 10:27:51 App\Jobs\TaskAutomate ..................... 90.73ms FAIL
+  2023-09-06 10:27:52 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:52 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:52 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:52 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:52 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:52 App\Jobs\TaskAutomate .................... 154.75ms FAIL
+  2023-09-06 10:27:52 App\Jobs\TaskAutomate .................... 154.89ms FAIL
+  2023-09-06 10:27:52 App\Jobs\TaskAutomate .................... 196.23ms FAIL
+  2023-09-06 10:27:52 App\Jobs\TaskAutomate .................... 198.86ms FAIL
+  2023-09-06 10:27:52 App\Jobs\TaskAutomate .................... 454.65ms FAIL
+  2023-09-06 10:27:52 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:52 App\Jobs\TaskAutomate .................... 133.50ms FAIL
+  2023-09-06 10:27:53 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:53 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:53 App\Jobs\TaskAutomate ..................... 98.09ms FAIL
+  2023-09-06 10:27:53 App\Jobs\TaskAutomate .................... 105.73ms FAIL
+  2023-09-06 10:27:53 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:53 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:53 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:54 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:54 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:54 App\Jobs\TaskAutomate  2023-09-06 10:27:54 App\Jobs\TaskAutomate .................... .................... 164.44ms 151.99ms FAIL
+ FAIL
+  2023-09-06 10:27:54 App\Jobs\TaskAutomate .................... 238.51ms FAIL
+  2023-09-06 10:27:54 App\Jobs\TaskAutomate .................... 383.59ms FAIL
+  2023-09-06 10:27:54 App\Jobs\TaskAutomate .................... 402.79ms FAIL
+  2023-09-06 10:27:54 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:54 App\Jobs\TaskAutomate ..................... 83.80ms FAIL
+  2023-09-06 10:27:55 App\Jobs\TaskAutomate  2023-09-06 10:27:55 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:27:55 App\Jobs\TaskAutomate ....................  2023-09-06 10:27:55 App\Jobs\TaskAutomate .................... 125.01ms 122.33ms FAIL
+ FAIL
+  2023-09-06 10:27:55 App\Jobs\TaskAutomate  2023-09-06 10:27:55 App\Jobs\TaskAutomate .......................... RUNNING
+ ..........................  2023-09-06 10:27:55 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:55 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:27:55 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:55 App\Jobs\TaskAutomate ..................... 99.21ms FAIL
+  2023-09-06 10:27:55 App\Jobs\TaskAutomate ..................... 94.15ms FAIL
+  2023-09-06 10:27:56 App\Jobs\TaskAutomate ....................  2023-09-06 10:27:56 App\Jobs\TaskAutomate .................... 154.44ms FAIL
+ 149.72ms FAIL
+  2023-09-06 10:27:56 App\Jobs\TaskAutomate .................... 108.62ms FAIL
+  2023-09-06 10:27:56 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:56 App\Jobs\TaskAutomate ..................... 86.33ms FAIL
+  2023-09-06 10:27:57 App\Jobs\TaskAutomate  2023-09-06 10:27:57 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:27:57 App\Jobs\TaskAutomate .................... 129.43ms FAIL
+  2023-09-06 10:27:57 App\Jobs\TaskAutomate .................... 155.20ms FAIL
+  2023-09-06 10:27:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:57 App\Jobs\TaskAutomate  2023-09-06 10:27:57 App\Jobs\TaskAutomate .................... 103.00ms FAIL
+ .................... 106.35ms FAIL
+  2023-09-06 10:27:57 App\Jobs\TaskAutomate .................... 115.98ms FAIL
+  2023-09-06 10:27:57 App\Jobs\TaskAutomate .................... 106.51ms FAIL
+  2023-09-06 10:27:57 App\Jobs\TaskAutomate .................... 102.39ms FAIL
+  2023-09-06 10:27:58 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:58 App\Jobs\TaskAutomate ..................... 83.66ms FAIL
+  2023-09-06 10:27:59 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:59 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:59 App\Jobs\TaskAutomate .................... 149.93ms FAIL
+  2023-09-06 10:27:59 App\Jobs\TaskAutomate .................... 727.32ms FAIL
+  2023-09-06 10:27:59 App\Jobs\TaskAutomate ..........................  2023-09-06 10:27:59 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:27:59 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:59 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:27:59 App\Jobs\TaskAutomate  2023-09-06 10:27:59 App\Jobs\TaskAutomate .................... 153.37ms FAIL
+ .................... 164.68ms FAIL
+  2023-09-06 10:28:00 App\Jobs\TaskAutomate .................... 208.33ms FAIL
+  2023-09-06 10:28:00 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:28:00 App\Jobs\TaskAutomate .................... 121.89ms FAIL
+  2023-09-06 10:28:00 App\Jobs\TaskAutomate ..................... 89.32ms FAIL
+  2023-09-06 10:28:00 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:28:00 App\Jobs\TaskAutomate ..................... 75.60ms FAIL
+  2023-09-06 10:28:44 App\Jobs\TaskAutomate  2023-09-06 10:28:44 App\Jobs\TaskAutomate .......................... RUNNING
+ ..........................  2023-09-06 10:28:44 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:28:44 App\Jobs\TaskAutomate ..........................  2023-09-06 10:28:44 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:28:44 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:28:44 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:28:58 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:28:59 App\Jobs\TaskAutomate .................... 680.29ms FAIL
+  2023-09-06 10:29:03 App\Jobs\TaskAutomate  2023-09-06 10:29:03 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:03 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:29:03 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:03 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:03 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:03 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:03 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:08 App\Jobs\TaskAutomate  2023-09-06 10:29:08 App\Jobs\TaskAutomate  2023-09-06 10:29:08 App\Jobs\TaskAutomate  2023-09-06 10:29:08 App\Jobs\TaskAutomate  2023-09-06 10:29:08 App\Jobs\TaskAutomate  2023-09-06 10:29:08 App\Jobs\TaskAutomate  2023-09-06 10:29:08 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+ .......................... RUNNING
+ .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:29:08 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:29:08 App\Jobs\TaskAutomate .................... 338.52ms FAIL
+  2023-09-06 10:29:08 App\Jobs\TaskAutomate .................... 361.41ms FAIL
+  2023-09-06 10:29:08 App\Jobs\TaskAutomate .................... 353.04ms FAIL
+  2023-09-06 10:29:08 App\Jobs\TaskAutomate .................... 352.80ms FAIL
+  2023-09-06 10:29:08 App\Jobs\TaskAutomate .................... 353.42ms FAIL
+  2023-09-06 10:29:08 App\Jobs\TaskAutomate .................... 358.58ms FAIL
+  2023-09-06 10:29:08 App\Jobs\TaskAutomate .................... 354.75ms FAIL
+  2023-09-06 10:29:08 App\Jobs\TaskAutomate .................... 364.11ms FAIL
+  2023-09-06 10:29:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:26 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:26 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:26 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:26 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:26 App\Jobs\TaskAutomate  2023-09-06 10:29:26 App\Jobs\TaskAutomate  2023-09-06 10:29:26 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:29:26 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:29:50 App\Jobs\TaskAutomate  2023-09-06 10:29:50 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:29:51 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:52 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:29:55 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:07 App\Jobs\TaskAutomate  2023-09-06 10:30:07 App\Jobs\TaskAutomate  2023-09-06 10:30:07 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:30:07 App\Jobs\TaskAutomate ..................... 70.72ms FAIL
+  2023-09-06 10:30:07 App\Jobs\TaskAutomate ..................... 78.09ms FAIL
+  2023-09-06 10:30:07 App\Jobs\TaskAutomate .................... 122.72ms FAIL
+  2023-09-06 10:30:09 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:09 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:09 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:18 App\Jobs\TaskAutomate ..........................  2023-09-06 10:30:18 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:30:18 App\Jobs\TaskAutomate .................... 103.16ms FAIL
+  2023-09-06 10:30:18 App\Jobs\TaskAutomate .................... 138.25ms FAIL
+  2023-09-06 10:30:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:18 App\Jobs\TaskAutomate .................... 146.85ms FAIL
+  2023-09-06 10:30:18 App\Jobs\TaskAutomate .................... 155.38ms FAIL
+  2023-09-06 10:30:18 App\Jobs\TaskAutomate .................... 178.71ms FAIL
+  2023-09-06 10:30:19 App\Jobs\TaskAutomate  2023-09-06 10:30:19 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:30:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:19 App\Jobs\TaskAutomate .................... 115.14ms FAIL
+  2023-09-06 10:30:19 App\Jobs\TaskAutomate .................... 127.92ms FAIL
+  2023-09-06 10:30:19 App\Jobs\TaskAutomate .................... 122.70ms FAIL
+  2023-09-06 10:30:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:19 App\Jobs\TaskAutomate .....................  2023-09-06 10:30:19 App\Jobs\TaskAutomate ..................... 86.55ms FAIL
+ 81.36ms FAIL
+  2023-09-06 10:30:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:19 App\Jobs\TaskAutomate ..........................  2023-09-06 10:30:19 App\Jobs\TaskAutomate .................... 111.62ms FAIL
+ RUNNING
+  2023-09-06 10:30:19 App\Jobs\TaskAutomate .................... 100.19ms FAIL
+  2023-09-06 10:30:19 App\Jobs\TaskAutomate ..................... 83.10ms FAIL
+  2023-09-06 10:30:20 App\Jobs\TaskAutomate  2023-09-06 10:30:20 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:30:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:20 App\Jobs\TaskAutomate ....................  2023-09-06 10:30:20 App\Jobs\TaskAutomate .................... 124.38ms FAIL
+ 127.52ms FAIL
+  2023-09-06 10:30:21 App\Jobs\TaskAutomate .................... 211.56ms  2023-09-06 10:30:21 App\Jobs\TaskAutomate FAIL
+ .......................... RUNNING
+  2023-09-06 10:30:21 App\Jobs\TaskAutomate  2023-09-06 10:30:21 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:30:21 App\Jobs\TaskAutomate .................... 125.30ms FAIL
+  2023-09-06 10:30:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:21 App\Jobs\TaskAutomate ..................... 85.83ms FAIL
+  2023-09-06 10:30:21 App\Jobs\TaskAutomate .................... 111.20ms FAIL
+  2023-09-06 10:30:21 App\Jobs\TaskAutomate ..................... 77.69ms FAIL
+  2023-09-06 10:30:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:21 App\Jobs\TaskAutomate ..................... 91.35ms FAIL
+  2023-09-06 10:30:22 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:22 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:22 App\Jobs\TaskAutomate .................... 113.89ms FAIL
+  2023-09-06 10:30:22 App\Jobs\TaskAutomate  2023-09-06 10:30:22 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:30:22 App\Jobs\TaskAutomate .................... 261.47ms FAIL
+  2023-09-06 10:30:22 App\Jobs\TaskAutomate  2023-09-06 10:30:22 App\Jobs\TaskAutomate .................... .................... 188.38ms FAIL
+ 187.51ms FAIL
+  2023-09-06 10:30:23 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:23 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:23 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:23 App\Jobs\TaskAutomate .................... 110.27ms FAIL
+  2023-09-06 10:30:23 App\Jobs\TaskAutomate .................... 107.56ms FAIL
+  2023-09-06 10:30:23 App\Jobs\TaskAutomate ..................... 98.88ms FAIL
+  2023-09-06 10:30:23 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:23 App\Jobs\TaskAutomate ..................... 95.22ms FAIL
+  2023-09-06 10:30:24 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:24 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:24 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:24 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:24 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:24 App\Jobs\TaskAutomate .................... 194.92ms FAIL
+  2023-09-06 10:30:24 App\Jobs\TaskAutomate .................... 214.75ms FAIL
+  2023-09-06 10:30:24 App\Jobs\TaskAutomate .................... 212.86ms FAIL
+  2023-09-06 10:30:26 App\Jobs\TaskAutomate .................. 1,581.69ms FAIL
+  2023-09-06 10:30:26 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:26 App\Jobs\TaskAutomate .................. 1,651.40ms FAIL
+  2023-09-06 10:30:26 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:26 App\Jobs\TaskAutomate .................... 102.08ms FAIL
+  2023-09-06 10:30:26 App\Jobs\TaskAutomate .................... 106.40ms FAIL
+  2023-09-06 10:30:26 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:26 App\Jobs\TaskAutomate ..................... 97.41ms FAIL
+  2023-09-06 10:30:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:28 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:38 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:38 App\Jobs\TaskAutomate  2023-09-06 10:30:38 App\Jobs\TaskAutomate .......................... RUNNING
+ ..........................  2023-09-06 10:30:38 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:38 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:30:38 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:39 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:57 App\Jobs\TaskAutomate ..........................  2023-09-06 10:30:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:30:57 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:31:01 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:25 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:31 App\Jobs\TaskAutomate ..................... 72.77ms FAIL
+  2023-09-06 10:31:31 App\Jobs\TaskAutomate ..................... 80.93ms FAIL
+  2023-09-06 10:31:31 App\Jobs\TaskAutomate .................... 114.87ms FAIL
+  2023-09-06 10:31:33 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:35 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:33 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:34 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:43 App\Jobs\TaskAutomate ..........................  2023-09-06 10:31:43 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:31:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:43 App\Jobs\TaskAutomate .................... 124.51ms FAIL
+  2023-09-06 10:31:43 App\Jobs\TaskAutomate .................... 124.99ms FAIL
+  2023-09-06 10:31:43 App\Jobs\TaskAutomate ..................... 51.51ms FAIL
+  2023-09-06 10:31:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:44 App\Jobs\TaskAutomate ..................... 79.46ms FAIL
+  2023-09-06 10:31:45 App\Jobs\TaskAutomate  2023-09-06 10:31:44 App\Jobs\TaskAutomate  2023-09-06 10:31:45 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+ RUNNING
+ .......................... RUNNING
+  2023-09-06 10:31:45 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:45 App\Jobs\TaskAutomate  2023-09-06 10:31:45 App\Jobs\TaskAutomate .................... 150.47ms FAIL
+ .................... 151.45ms FAIL
+  2023-09-06 10:31:45 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:45 App\Jobs\TaskAutomate .................... 656.00ms FAIL
+  2023-09-06 10:31:45 App\Jobs\TaskAutomate .................... 595.95ms FAIL
+  2023-09-06 10:31:45 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:45 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:45 App\Jobs\TaskAutomate .................... 148.67ms FAIL
+  2023-09-06 10:31:45 App\Jobs\TaskAutomate ..................... 61.67ms FAIL
+  2023-09-06 10:31:45 App\Jobs\TaskAutomate ..................... 99.75ms FAIL
+  2023-09-06 10:31:45 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:46 App\Jobs\TaskAutomate ..................... 77.09ms FAIL
+  2023-09-06 10:31:47 App\Jobs\TaskAutomate  2023-09-06 10:31:47 App\Jobs\TaskAutomate  2023-09-06 10:31:47 App\Jobs\TaskAutomate  2023-09-06 10:31:47 App\Jobs\TaskAutomate .......................... RUNNING
+ ..........................  2023-09-06 10:31:47 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+ .......................... RUNNING
+ RUNNING
+  2023-09-06 10:31:47 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:31:48 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:32:13 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:32:13 App\Jobs\TaskAutomate .................... 803.70ms FAIL
+  2023-09-06 10:32:15 App\Jobs\TaskAutomate  2023-09-06 10:32:15 App\Jobs\TaskAutomate ..........................  2023-09-06 10:32:15 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+ RUNNING
+  2023-09-06 10:32:15 App\Jobs\TaskAutomate  2023-09-06 10:32:15 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:32:15 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:32:42 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:32:42 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:32:42 App\Jobs\TaskAutomate .................... 100.45ms FAIL
+  2023-09-06 10:32:42 App\Jobs\TaskAutomate .................... 111.94ms FAIL
+  2023-09-06 10:32:44 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:32:51 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:32:51 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:17 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:17 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:17 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:17 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:17 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:18 App\Jobs\TaskAutomate .................. 1,584.85ms FAIL
+  2023-09-06 10:33:18 App\Jobs\TaskAutomate .................. 1,600.46ms FAIL
+  2023-09-06 10:33:18 App\Jobs\TaskAutomate .................. 1,575.88ms FAIL
+  2023-09-06 10:33:18 App\Jobs\TaskAutomate .................. 1,599.64ms FAIL
+  2023-09-06 10:33:18 App\Jobs\TaskAutomate .................. 1,515.89ms FAIL
+  2023-09-06 10:33:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:19 App\Jobs\TaskAutomate  2023-09-06 10:33:19 App\Jobs\TaskAutomate  2023-09-06 10:33:19 App\Jobs\TaskAutomate ..................... ..................... 83.79ms ..................... 81.81ms 87.09ms FAIL
+ FAIL
+ FAIL
+  2023-09-06 10:33:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:20 App\Jobs\TaskAutomate  2023-09-06 10:33:20 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:33:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:20 App\Jobs\TaskAutomate  2023-09-06 10:33:20 App\Jobs\TaskAutomate  2023-09-06 10:33:20 App\Jobs\TaskAutomate .................... 115.60ms FAIL
+ .................... .................... 117.88ms FAIL
+ 113.48ms FAIL
+  2023-09-06 10:33:20 App\Jobs\TaskAutomate .................... 166.91ms FAIL
+  2023-09-06 10:33:20 App\Jobs\TaskAutomate .................... 175.88ms FAIL
+  2023-09-06 10:33:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:21 App\Jobs\TaskAutomate .................... 132.14ms FAIL
+  2023-09-06 10:33:21 App\Jobs\TaskAutomate .................... 132.67ms FAIL
+  2023-09-06 10:33:21 App\Jobs\TaskAutomate .................... 123.35ms FAIL
+  2023-09-06 10:33:22 App\Jobs\TaskAutomate ..........................  2023-09-06 10:33:22 App\Jobs\TaskAutomate RUNNING
+  2023-09-06 10:33:22 App\Jobs\TaskAutomate ..........................  2023-09-06 10:33:22 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+ RUNNING
+  2023-09-06 10:33:22 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:22 App\Jobs\TaskAutomate  2023-09-06 10:33:22 App\Jobs\TaskAutomate ..................... 93.97ms  2023-09-06 10:33:22 App\Jobs\TaskAutomate ..................... FAIL
+ 87.47ms FAIL
+ ..................... 96.05ms FAIL
+  2023-09-06 10:33:22 App\Jobs\TaskAutomate .................... 117.28ms FAIL
+  2023-09-06 10:33:22 App\Jobs\TaskAutomate .................... 124.42ms FAIL
+  2023-09-06 10:33:23 App\Jobs\TaskAutomate  2023-09-06 10:33:23 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:33:23 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:23 App\Jobs\TaskAutomate  2023-09-06 10:33:23 App\Jobs\TaskAutomate ....................  2023-09-06 10:33:23 App\Jobs\TaskAutomate .................... 227.56ms FAIL
+ .................... 192.77ms FAIL
+ 225.68ms FAIL
+  2023-09-06 10:33:23 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:23 App\Jobs\TaskAutomate  2023-09-06 10:33:23 App\Jobs\TaskAutomate ..........................  2023-09-06 10:33:23 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:33:23 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:33:24 App\Jobs\TaskAutomate  2023-09-06 10:33:24 App\Jobs\TaskAutomate ..................... ..................... 78.91ms 76.33ms FAIL
+ FAIL
+  2023-09-06 10:33:24 App\Jobs\TaskAutomate  2023-09-06 10:33:24 App\Jobs\TaskAutomate .................... 109.35ms FAIL
+ .................... 116.49ms FAIL
+  2023-09-06 10:33:24 App\Jobs\TaskAutomate .................... 110.70ms FAIL
+  2023-09-06 10:33:25 App\Jobs\TaskAutomate  2023-09-06 10:33:25 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:25 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:25 App\Jobs\TaskAutomate  2023-09-06 10:33:25 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:33:33 App\Jobs\TaskAutomate ..........................  2023-09-06 10:33:33 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:33:33 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:34 App\Jobs\TaskAutomate .................... 353.93ms FAIL
+  2023-09-06 10:33:34 App\Jobs\TaskAutomate .................... 356.67ms FAIL
+  2023-09-06 10:33:34 App\Jobs\TaskAutomate .................... 355.63ms FAIL
+  2023-09-06 10:33:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:45 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:50 App\Jobs\TaskAutomate  2023-09-06 10:33:50 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:33:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:33:50 App\Jobs\TaskAutomate .................... 444.17ms FAIL
+  2023-09-06 10:33:50 App\Jobs\TaskAutomate .................... 444.04ms FAIL
+  2023-09-06 10:33:50 App\Jobs\TaskAutomate .................... 444.91ms FAIL
+  2023-09-06 10:33:52 App\Jobs\TaskAutomate  2023-09-06 10:33:52 App\Jobs\TaskAutomate ..........................  2023-09-06 10:33:52 App\Jobs\TaskAutomate RUNNING
+ .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:33:52 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:34:01 App\Jobs\TaskAutomate  2023-09-06 10:34:01 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:34:01 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:34:01 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:34:01 App\Jobs\TaskAutomate .................... 105.59ms FAIL
+  2023-09-06 10:34:01 App\Jobs\TaskAutomate  2023-09-06 10:34:01 App\Jobs\TaskAutomate .................... 129.81ms FAIL
+ .................... 121.54ms FAIL
+  2023-09-06 10:34:01 App\Jobs\TaskAutomate .................... 119.84ms FAIL
+  2023-09-06 10:34:04 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:34:09 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:34:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:34:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:34:20 App\Jobs\TaskAutomate  2023-09-06 10:34:21 App\Jobs\TaskAutomate .......................... RUNNING
+ ..........................  2023-09-06 10:34:21 App\Jobs\TaskAutomate RUNNING
+ .......................... RUNNING
+  2023-09-06 10:34:29 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:34:30 App\Jobs\TaskAutomate .................... 536.14ms FAIL
+  2023-09-06 10:34:30 App\Jobs\TaskAutomate  2023-09-06 10:34:30 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:34:30 App\Jobs\TaskAutomate  2023-09-06 10:34:30 App\Jobs\TaskAutomate ..................... ..................... 93.31ms 92.86ms FAIL
+ FAIL
+  2023-09-06 10:34:31 App\Jobs\TaskAutomate  2023-09-06 10:34:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:34:31 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:34:31 App\Jobs\TaskAutomate  2023-09-06 10:34:31 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:34:32 App\Jobs\TaskAutomate  2023-09-06 10:34:32 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:34:55 App\Jobs\TaskAutomate  2023-09-06 10:34:55 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:34:55 App\Jobs\TaskAutomate  2023-09-06 10:34:55 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:34:55 App\Jobs\TaskAutomate  2023-09-06 10:34:55 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+ .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:34:55 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:02 App\Jobs\TaskAutomate  2023-09-06 10:35:02 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:35:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:02 App\Jobs\TaskAutomate .................... 191.08ms FAIL
+  2023-09-06 10:35:02 App\Jobs\TaskAutomate .................... 221.49ms FAIL
+  2023-09-06 10:35:02 App\Jobs\TaskAutomate .................... 187.55ms FAIL
+  2023-09-06 10:35:02 App\Jobs\TaskAutomate .................... 185.74ms FAIL
+  2023-09-06 10:35:02 App\Jobs\TaskAutomate  2023-09-06 10:35:02 App\Jobs\TaskAutomate .................... 192.14ms FAIL
+ .................... 255.49ms FAIL
+  2023-09-06 10:35:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:02 App\Jobs\TaskAutomate .................... 294.30ms FAIL
+  2023-09-06 10:35:22 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:22 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:22 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:22 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:22 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:22 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:29 App\Jobs\TaskAutomate ..........................  2023-09-06 10:35:29 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:35:29 App\Jobs\TaskAutomate .................... 112.46ms FAIL
+  2023-09-06 10:35:29 App\Jobs\TaskAutomate .................... 119.56ms FAIL
+  2023-09-06 10:35:31 App\Jobs\TaskAutomate  2023-09-06 10:35:31 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:35:31 App\Jobs\TaskAutomate  2023-09-06 10:35:31 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:35:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:54 App\Jobs\TaskAutomate  2023-09-06 10:35:54 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:35:54 App\Jobs\TaskAutomate ..................... 46.21ms FAIL
+  2023-09-06 10:35:54 App\Jobs\TaskAutomate ..................... 47.57ms FAIL
+  2023-09-06 10:35:54 App\Jobs\TaskAutomate ..........................  2023-09-06 10:35:54 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:35:54 App\Jobs\TaskAutomate ...................... 8.46ms FAIL
+  2023-09-06 10:35:54 App\Jobs\TaskAutomate ..................... 43.39ms FAIL
+  2023-09-06 10:35:55 App\Jobs\TaskAutomate  2023-09-06 10:35:55 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:35:55 App\Jobs\TaskAutomate ..................... 35.97ms FAIL
+  2023-09-06 10:35:55 App\Jobs\TaskAutomate ..................... 37.11ms FAIL
+  2023-09-06 10:35:55 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:55 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:55 App\Jobs\TaskAutomate  2023-09-06 10:35:55 App\Jobs\TaskAutomate ..................... 67.79ms FAIL
+ ..................... 66.64ms FAIL
+  2023-09-06 10:35:56 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:56 App\Jobs\TaskAutomate ..........................  2023-09-06 10:35:56 App\Jobs\TaskAutomate RUNNING
+  2023-09-06 10:35:56 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:56 App\Jobs\TaskAutomate .................... .......................... RUNNING
+ 100.55ms FAIL
+  2023-09-06 10:35:56 App\Jobs\TaskAutomate  2023-09-06 10:35:56 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:35:56 App\Jobs\TaskAutomate ..................... 99.50ms FAIL
+  2023-09-06 10:35:56 App\Jobs\TaskAutomate ..................... 90.79ms FAIL
+  2023-09-06 10:35:57 App\Jobs\TaskAutomate .................... 119.26ms FAIL
+  2023-09-06 10:35:57 App\Jobs\TaskAutomate ..................... 94.61ms FAIL
+  2023-09-06 10:35:57 App\Jobs\TaskAutomate .................... 126.05ms FAIL
+  2023-09-06 10:35:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:57 App\Jobs\TaskAutomate ..................... 79.66ms FAIL
+  2023-09-06 10:35:57 App\Jobs\TaskAutomate ..................... 74.92ms FAIL
+  2023-09-06 10:35:58 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:58 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:58 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:58 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:58 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:58 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:58 App\Jobs\TaskAutomate .................... 104.22ms FAIL
+  2023-09-06 10:35:58 App\Jobs\TaskAutomate .................... 104.86ms FAIL
+  2023-09-06 10:35:58 App\Jobs\TaskAutomate  2023-09-06 10:35:58 App\Jobs\TaskAutomate ..................... 82.56ms .................... FAIL
+ 113.10ms FAIL
+  2023-09-06 10:35:58 App\Jobs\TaskAutomate .................... 110.87ms FAIL
+  2023-09-06 10:35:58 App\Jobs\TaskAutomate .................... 115.34ms FAIL
+  2023-09-06 10:35:58 App\Jobs\TaskAutomate  2023-09-06 10:35:58 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:35:58 App\Jobs\TaskAutomate ..................... 78.91ms FAIL
+  2023-09-06 10:35:58 App\Jobs\TaskAutomate ..................... 66.86ms FAIL
+  2023-09-06 10:35:59 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:59 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:59 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:59 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:59 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:59 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:35:59 App\Jobs\TaskAutomate .................... 111.98ms FAIL
+  2023-09-06 10:35:59 App\Jobs\TaskAutomate ..................... 99.79ms FAIL
+  2023-09-06 10:35:59 App\Jobs\TaskAutomate ..................... 95.98ms FAIL
+  2023-09-06 10:35:59 App\Jobs\TaskAutomate .................... 108.12ms FAIL
+  2023-09-06 10:35:59 App\Jobs\TaskAutomate .................... 117.13ms FAIL
+  2023-09-06 10:35:59 App\Jobs\TaskAutomate ..................... 99.08ms FAIL
+  2023-09-06 10:36:00 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:00 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:00 App\Jobs\TaskAutomate ..................... 55.89ms FAIL
+  2023-09-06 10:36:00 App\Jobs\TaskAutomate ..................... 93.70ms FAIL
+  2023-09-06 10:36:01 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:01 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:01 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:01 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:01 App\Jobs\TaskAutomate ..................... 86.02ms FAIL
+  2023-09-06 10:36:01 App\Jobs\TaskAutomate ..................... 83.94ms FAIL
+  2023-09-06 10:36:01 App\Jobs\TaskAutomate .................... 116.05ms FAIL
+  2023-09-06 10:36:01 App\Jobs\TaskAutomate  2023-09-06 10:36:01 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:36:01 App\Jobs\TaskAutomate .................... 108.58ms FAIL
+  2023-09-06 10:36:01 App\Jobs\TaskAutomate ..................... 74.52ms FAIL
+  2023-09-06 10:36:01 App\Jobs\TaskAutomate .................... 106.85ms FAIL
+  2023-09-06 10:36:01 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:01 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:01 App\Jobs\TaskAutomate ..................... 90.53ms FAIL
+  2023-09-06 10:36:01 App\Jobs\TaskAutomate ..................... 97.49ms FAIL
+  2023-09-06 10:36:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:02 App\Jobs\TaskAutomate .................... 112.94ms FAIL
+  2023-09-06 10:36:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:02 App\Jobs\TaskAutomate .................... 116.46ms FAIL
+  2023-09-06 10:36:02 App\Jobs\TaskAutomate .................... 104.34ms FAIL
+  2023-09-06 10:36:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:02 App\Jobs\TaskAutomate ..................... 76.37ms FAIL
+  2023-09-06 10:36:02 App\Jobs\TaskAutomate .................... 108.65ms FAIL
+  2023-09-06 10:36:02 App\Jobs\TaskAutomate ..................... 85.49ms FAIL
+  2023-09-06 10:36:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:03 App\Jobs\TaskAutomate ..................... 83.23ms FAIL
+  2023-09-06 10:36:03 App\Jobs\TaskAutomate ..................... 87.29ms FAIL
+  2023-09-06 10:36:03 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:03 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:03 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:03 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:04 App\Jobs\TaskAutomate ..........................  2023-09-06 10:36:04 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:36:04 App\Jobs\TaskAutomate .................... 117.90ms FAIL
+  2023-09-06 10:36:04 App\Jobs\TaskAutomate ..................... 97.48ms FAIL
+  2023-09-06 10:36:04 App\Jobs\TaskAutomate ..................... 93.19ms FAIL
+  2023-09-06 10:36:04 App\Jobs\TaskAutomate .................... 118.08ms FAIL
+  2023-09-06 10:36:04 App\Jobs\TaskAutomate ..................... 95.03ms FAIL
+  2023-09-06 10:36:04 App\Jobs\TaskAutomate .................... 104.53ms FAIL
+  2023-09-06 10:36:04 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:04 App\Jobs\TaskAutomate ..................... 78.38ms FAIL
+  2023-09-06 10:36:04 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:04 App\Jobs\TaskAutomate .................... 101.82ms FAIL
+  2023-09-06 10:36:05 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:05 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:05 App\Jobs\TaskAutomate .................... 123.87ms FAIL
+  2023-09-06 10:36:05 App\Jobs\TaskAutomate .................... 107.89ms FAIL
+  2023-09-06 10:36:05 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:05 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:05 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:05 App\Jobs\TaskAutomate .................... 104.74ms FAIL
+  2023-09-06 10:36:05 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:05 App\Jobs\TaskAutomate .................... 108.75ms FAIL
+  2023-09-06 10:36:05 App\Jobs\TaskAutomate ..................... 88.38ms FAIL
+  2023-09-06 10:36:05 App\Jobs\TaskAutomate ..................... 73.71ms FAIL
+  2023-09-06 10:36:06 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:06 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:06 App\Jobs\TaskAutomate ..................... 86.05ms FAIL
+  2023-09-06 10:36:06 App\Jobs\TaskAutomate ..................... 81.30ms FAIL
+  2023-09-06 10:36:06 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:06 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:07 App\Jobs\TaskAutomate .................... 122.88ms FAIL
+  2023-09-06 10:36:07 App\Jobs\TaskAutomate ..........................  2023-09-06 10:36:07 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:07 App\Jobs\TaskAutomate RUNNING
+ .......................... RUNNING
+  2023-09-06 10:36:07 App\Jobs\TaskAutomate  2023-09-06 10:36:07 App\Jobs\TaskAutomate .................... 112.21ms FAIL
+ .......................... RUNNING
+  2023-09-06 10:36:07 App\Jobs\TaskAutomate ..................... 82.75ms FAIL
+  2023-09-06 10:36:07 App\Jobs\TaskAutomate ..................... 95.55ms FAIL
+  2023-09-06 10:36:07 App\Jobs\TaskAutomate .................... 103.95ms FAIL
+  2023-09-06 10:36:07 App\Jobs\TaskAutomate .................... 108.85ms FAIL
+  2023-09-06 10:36:07 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:07 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:07 App\Jobs\TaskAutomate ..................... 92.31ms FAIL
+  2023-09-06 10:36:07 App\Jobs\TaskAutomate ..................... 92.60ms FAIL
+  2023-09-06 10:36:08 App\Jobs\TaskAutomate  2023-09-06 10:36:08 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:36:08 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:08 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:08 App\Jobs\TaskAutomate  2023-09-06 10:36:08 App\Jobs\TaskAutomate ..................... ..................... 90.52ms 95.00ms FAIL
+ FAIL
+  2023-09-06 10:36:08 App\Jobs\TaskAutomate ..................... 97.62ms FAIL
+  2023-09-06 10:36:08 App\Jobs\TaskAutomate .................... 119.66ms FAIL
+  2023-09-06 10:36:08 App\Jobs\TaskAutomate  2023-09-06 10:36:08 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:36:08 App\Jobs\TaskAutomate .................... 119.10ms FAIL
+  2023-09-06 10:36:08 App\Jobs\TaskAutomate .................... 153.24ms FAIL
+  2023-09-06 10:36:09 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:09 App\Jobs\TaskAutomate ..................... 85.21ms FAIL
+  2023-09-06 10:36:09 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:09 App\Jobs\TaskAutomate ..................... 85.89ms FAIL
+  2023-09-06 10:36:10 App\Jobs\TaskAutomate  2023-09-06 10:36:10 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:36:10 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:10 App\Jobs\TaskAutomate ..................... 86.69ms FAIL
+  2023-09-06 10:36:10 App\Jobs\TaskAutomate ..........................  2023-09-06 10:36:10 App\Jobs\TaskAutomate  2023-09-06 10:36:10 App\Jobs\TaskAutomate .................... .................... RUNNING
+ 139.15ms FAIL
+ 140.95ms FAIL
+  2023-09-06 10:36:10 App\Jobs\TaskAutomate .................... 113.78ms FAIL
+  2023-09-06 10:36:10 App\Jobs\TaskAutomate  2023-09-06 10:36:10 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:36:10 App\Jobs\TaskAutomate .................... 157.33ms FAIL
+  2023-09-06 10:36:10 App\Jobs\TaskAutomate .................... 168.90ms FAIL
+  2023-09-06 10:36:10 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:10 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:11 App\Jobs\TaskAutomate ..................... 81.45ms FAIL
+  2023-09-06 10:36:11 App\Jobs\TaskAutomate .................... 110.98ms FAIL
+  2023-09-06 10:36:11 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:11 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:11 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:11 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:11 App\Jobs\TaskAutomate  2023-09-06 10:36:11 App\Jobs\TaskAutomate ..................... 98.40ms FAIL
+ ..................... 91.98ms FAIL
+  2023-09-06 10:36:11 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:12 App\Jobs\TaskAutomate ..................... 97.39ms FAIL
+  2023-09-06 10:36:12 App\Jobs\TaskAutomate .................... 111.15ms FAIL
+  2023-09-06 10:36:12 App\Jobs\TaskAutomate ..................... 85.34ms FAIL
+  2023-09-06 10:36:12 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:12 App\Jobs\TaskAutomate ..................... 89.33ms FAIL
+  2023-09-06 10:36:12 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:12 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:12 App\Jobs\TaskAutomate ..................... 89.02ms FAIL
+  2023-09-06 10:36:12 App\Jobs\TaskAutomate ..................... 83.54ms FAIL
+  2023-09-06 10:36:13 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:13 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:13 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:13 App\Jobs\TaskAutomate ..................... 82.85ms FAIL
+  2023-09-06 10:36:13 App\Jobs\TaskAutomate .................... 119.76ms FAIL
+  2023-09-06 10:36:13 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:13 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:13 App\Jobs\TaskAutomate .................... 116.05ms FAIL
+  2023-09-06 10:36:13 App\Jobs\TaskAutomate .................... 100.00ms FAIL
+  2023-09-06 10:36:13 App\Jobs\TaskAutomate ..................... 92.22ms FAIL
+  2023-09-06 10:36:13 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:13 App\Jobs\TaskAutomate ..................... 74.90ms FAIL
+  2023-09-06 10:36:13 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:13 App\Jobs\TaskAutomate ..................... 67.60ms FAIL
+  2023-09-06 10:36:13 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:13 App\Jobs\TaskAutomate ..................... 90.35ms FAIL
+  2023-09-06 10:36:14 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:14 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:14 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:14 App\Jobs\TaskAutomate ..................... 86.21ms FAIL
+  2023-09-06 10:36:14 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:14 App\Jobs\TaskAutomate .................... 123.82ms FAIL
+  2023-09-06 10:36:14 App\Jobs\TaskAutomate ..................... 82.28ms FAIL
+  2023-09-06 10:36:14 App\Jobs\TaskAutomate  2023-09-06 10:36:14 App\Jobs\TaskAutomate .................... 117.32ms FAIL
+ .......................... RUNNING
+  2023-09-06 10:36:14 App\Jobs\TaskAutomate ..................... 83.73ms FAIL
+  2023-09-06 10:36:14 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:15 App\Jobs\TaskAutomate ..................... 93.85ms FAIL
+  2023-09-06 10:36:15 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:15 App\Jobs\TaskAutomate ..................... 76.49ms FAIL
+  2023-09-06 10:36:15 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:15 App\Jobs\TaskAutomate ..................... 84.12ms FAIL
+  2023-09-06 10:36:15 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:16 App\Jobs\TaskAutomate  2023-09-06 10:36:16 App\Jobs\TaskAutomate ..................... 96.11ms FAIL
+ .......................... RUNNING
+  2023-09-06 10:36:16 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:16 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:16 App\Jobs\TaskAutomate  2023-09-06 10:36:16 App\Jobs\TaskAutomate .................... 103.68ms FAIL
+ .......................... RUNNING
+  2023-09-06 10:36:16 App\Jobs\TaskAutomate ..................... 95.59ms FAIL
+  2023-09-06 10:36:16 App\Jobs\TaskAutomate .................... 101.40ms FAIL
+  2023-09-06 10:36:16 App\Jobs\TaskAutomate ..................... 96.46ms FAIL
+  2023-09-06 10:36:16 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:16 App\Jobs\TaskAutomate ..................... 79.30ms FAIL
+  2023-09-06 10:36:16 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:16 App\Jobs\TaskAutomate ..................... 89.75ms FAIL
+  2023-09-06 10:36:16 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:16 App\Jobs\TaskAutomate ..................... 81.75ms FAIL
+  2023-09-06 10:36:17 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:17 App\Jobs\TaskAutomate ..................... 74.04ms FAIL
+  2023-09-06 10:36:17 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:17 App\Jobs\TaskAutomate  2023-09-06 10:36:17 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:36:17 App\Jobs\TaskAutomate ..................... 84.40ms FAIL
+  2023-09-06 10:36:17 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:17 App\Jobs\TaskAutomate .................... 117.34ms FAIL
+  2023-09-06 10:36:17 App\Jobs\TaskAutomate .................... 121.55ms FAIL
+  2023-09-06 10:36:17 App\Jobs\TaskAutomate .................... 107.90ms FAIL
+  2023-09-06 10:36:17 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:17 App\Jobs\TaskAutomate ..................... 74.05ms FAIL
+  2023-09-06 10:36:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:18 App\Jobs\TaskAutomate ..................... 73.01ms FAIL
+  2023-09-06 10:36:18 App\Jobs\TaskAutomate ..................... 81.41ms FAIL
+  2023-09-06 10:36:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:18 App\Jobs\TaskAutomate ..................... 90.56ms FAIL
+  2023-09-06 10:36:18 App\Jobs\TaskAutomate ..................... 94.40ms FAIL
+  2023-09-06 10:36:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:19 App\Jobs\TaskAutomate .................... 120.02ms FAIL
+  2023-09-06 10:36:19 App\Jobs\TaskAutomate .................... 107.32ms FAIL
+  2023-09-06 10:36:19 App\Jobs\TaskAutomate  2023-09-06 10:36:19 App\Jobs\TaskAutomate ..................... 89.68ms FAIL
+ .......................... RUNNING
+  2023-09-06 10:36:19 App\Jobs\TaskAutomate ..................... 76.11ms FAIL
+  2023-09-06 10:36:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:19 App\Jobs\TaskAutomate ..................... 90.50ms FAIL
+  2023-09-06 10:36:19 App\Jobs\TaskAutomate ..................... 87.38ms FAIL
+  2023-09-06 10:36:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:20 App\Jobs\TaskAutomate ..................... 88.62ms FAIL
+  2023-09-06 10:36:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:20 App\Jobs\TaskAutomate .................... 114.13ms FAIL
+  2023-09-06 10:36:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:20 App\Jobs\TaskAutomate ..................... 85.13ms FAIL
+  2023-09-06 10:36:20 App\Jobs\TaskAutomate ..................... 96.69ms FAIL
+  2023-09-06 10:36:20 App\Jobs\TaskAutomate  2023-09-06 10:36:20 App\Jobs\TaskAutomate ..................... 85.45ms FAIL
+ .......................... RUNNING
+  2023-09-06 10:36:20 App\Jobs\TaskAutomate ..................... 58.75ms FAIL
+  2023-09-06 10:36:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:21 App\Jobs\TaskAutomate ..................... 86.83ms FAIL
+  2023-09-06 10:36:21 App\Jobs\TaskAutomate ..................... 89.16ms FAIL
+  2023-09-06 10:36:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:21 App\Jobs\TaskAutomate ..........................  2023-09-06 10:36:21 App\Jobs\TaskAutomate RUNNING
+ .......................... RUNNING
+  2023-09-06 10:36:21 App\Jobs\TaskAutomate ..................... 93.98ms FAIL
+  2023-09-06 10:36:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:21 App\Jobs\TaskAutomate .................... 100.51ms FAIL
+  2023-09-06 10:36:21 App\Jobs\TaskAutomate .................... 112.82ms FAIL
+  2023-09-06 10:36:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:21 App\Jobs\TaskAutomate ..................... 80.31ms FAIL
+  2023-09-06 10:36:21 App\Jobs\TaskAutomate .....................  2023-09-06 10:36:21 App\Jobs\TaskAutomate ..................... 94.17ms FAIL
+ 85.42ms FAIL
+  2023-09-06 10:36:22 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:22 App\Jobs\TaskAutomate ..................... 78.29ms FAIL
+  2023-09-06 10:36:22 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:22 App\Jobs\TaskAutomate ..................... 82.76ms FAIL
+  2023-09-06 10:36:23 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:23 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:23 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:23 App\Jobs\TaskAutomate ..................... 73.54ms FAIL
+  2023-09-06 10:36:23 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:23 App\Jobs\TaskAutomate ..................... 98.12ms FAIL
+  2023-09-06 10:36:23 App\Jobs\TaskAutomate .................... 113.09ms FAIL
+  2023-09-06 10:36:23 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:23 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:23 App\Jobs\TaskAutomate ..................... 85.72ms FAIL
+  2023-09-06 10:36:23 App\Jobs\TaskAutomate ..................... 92.31ms FAIL
+  2023-09-06 10:36:23 App\Jobs\TaskAutomate ..................... 95.91ms FAIL
+  2023-09-06 10:36:23 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:23 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:23 App\Jobs\TaskAutomate ..................... 87.91ms FAIL
+  2023-09-06 10:36:23 App\Jobs\TaskAutomate ..................... 79.99ms FAIL
+  2023-09-06 10:36:24 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:24 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:24 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:24 App\Jobs\TaskAutomate .................... 107.28ms FAIL
+  2023-09-06 10:36:24 App\Jobs\TaskAutomate ..................... 81.71ms FAIL
+  2023-09-06 10:36:24 App\Jobs\TaskAutomate ..................... 95.28ms FAIL
+  2023-09-06 10:36:24 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:24 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:24 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:24 App\Jobs\TaskAutomate ..................... 93.98ms FAIL
+  2023-09-06 10:36:24 App\Jobs\TaskAutomate ..................... 90.45ms FAIL
+  2023-09-06 10:36:24 App\Jobs\TaskAutomate ..................... 91.44ms FAIL
+  2023-09-06 10:36:25 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:25 App\Jobs\TaskAutomate  2023-09-06 10:36:25 App\Jobs\TaskAutomate ..................... 75.56ms FAIL
+ .......................... RUNNING
+  2023-09-06 10:36:25 App\Jobs\TaskAutomate ..................... 64.57ms FAIL
+  2023-09-06 10:36:25 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:25 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:25 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:25 App\Jobs\TaskAutomate .................... 103.56ms FAIL
+  2023-09-06 10:36:25 App\Jobs\TaskAutomate ..................... 92.42ms FAIL
+  2023-09-06 10:36:25 App\Jobs\TaskAutomate  2023-09-06 10:36:25 App\Jobs\TaskAutomate ..................... 88.56ms FAIL
+ .......................... RUNNING
+  2023-09-06 10:36:25 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:25 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:26 App\Jobs\TaskAutomate ..................... 84.71ms FAIL
+  2023-09-06 10:36:26 App\Jobs\TaskAutomate ..................... 82.19ms FAIL
+  2023-09-06 10:36:26 App\Jobs\TaskAutomate ..................... 92.82ms FAIL
+  2023-09-06 10:36:26 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:26 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:26 App\Jobs\TaskAutomate ..................... 91.09ms FAIL
+  2023-09-06 10:36:26 App\Jobs\TaskAutomate ..................... 89.13ms FAIL
+  2023-09-06 10:36:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:27 App\Jobs\TaskAutomate .................... 179.93ms FAIL
+  2023-09-06 10:36:27 App\Jobs\TaskAutomate .................... 149.19ms FAIL
+  2023-09-06 10:36:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:27 App\Jobs\TaskAutomate .................... 220.75ms FAIL
+  2023-09-06 10:36:27 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:27 App\Jobs\TaskAutomate .................... 109.31ms FAIL
+  2023-09-06 10:36:27 App\Jobs\TaskAutomate .................... 124.29ms FAIL
+  2023-09-06 10:36:27 App\Jobs\TaskAutomate .................... 111.96ms FAIL
+  2023-09-06 10:36:28 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:28 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:28 App\Jobs\TaskAutomate ..................... 88.34ms FAIL
+  2023-09-06 10:36:28 App\Jobs\TaskAutomate ..................... 82.68ms FAIL
+  2023-09-06 10:36:28 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:28 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:28 App\Jobs\TaskAutomate ..........................  2023-09-06 10:36:28 App\Jobs\TaskAutomate .................... 104.76ms FAIL
+ RUNNING
+  2023-09-06 10:36:28 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:29 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:29 App\Jobs\TaskAutomate .................... 138.65ms FAIL
+  2023-09-06 10:36:29 App\Jobs\TaskAutomate .................... 110.15ms FAIL
+  2023-09-06 10:36:29 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:29 App\Jobs\TaskAutomate .................... 100.64ms FAIL
+  2023-09-06 10:36:29 App\Jobs\TaskAutomate ..................... 98.81ms FAIL
+  2023-09-06 10:36:29 App\Jobs\TaskAutomate ..................... 96.57ms FAIL
+  2023-09-06 10:36:29 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:29 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:29 App\Jobs\TaskAutomate ..................... 90.27ms FAIL
+  2023-09-06 10:36:29 App\Jobs\TaskAutomate ..................... 99.62ms FAIL
+  2023-09-06 10:36:30 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:30 App\Jobs\TaskAutomate ..................... 80.70ms FAIL
+  2023-09-06 10:36:30 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:30 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:30 App\Jobs\TaskAutomate  2023-09-06 10:36:30 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:36:30 App\Jobs\TaskAutomate .....................  2023-09-06 10:36:30 App\Jobs\TaskAutomate ..................... 99.48ms FAIL
+ 91.07ms FAIL
+  2023-09-06 10:36:30 App\Jobs\TaskAutomate .....................  2023-09-06 10:36:30 App\Jobs\TaskAutomate 88.87ms FAIL
+ .......................... RUNNING
+  2023-09-06 10:36:30 App\Jobs\TaskAutomate ..................... 97.57ms FAIL
+  2023-09-06 10:36:30 App\Jobs\TaskAutomate ..................... 87.40ms FAIL
+  2023-09-06 10:36:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:31 App\Jobs\TaskAutomate .................... 101.26ms FAIL
+  2023-09-06 10:36:31 App\Jobs\TaskAutomate ..................... 97.25ms FAIL
+  2023-09-06 10:36:31 App\Jobs\TaskAutomate ..........................  2023-09-06 10:36:31 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:36:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:31 App\Jobs\TaskAutomate ..................... 93.41ms FAIL
+  2023-09-06 10:36:31 App\Jobs\TaskAutomate .................... 117.42ms FAIL
+  2023-09-06 10:36:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:31 App\Jobs\TaskAutomate .................... 108.19ms FAIL
+  2023-09-06 10:36:31 App\Jobs\TaskAutomate .................... 120.00ms FAIL
+  2023-09-06 10:36:31 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:32 App\Jobs\TaskAutomate ..................... 97.32ms FAIL
+  2023-09-06 10:36:32 App\Jobs\TaskAutomate ..................... 99.73ms FAIL
+  2023-09-06 10:36:32 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:32 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:32 App\Jobs\TaskAutomate ..................... 84.29ms FAIL
+  2023-09-06 10:36:32 App\Jobs\TaskAutomate ..................... 97.71ms FAIL
+  2023-09-06 10:36:33 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:33 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:33 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:33 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:33 App\Jobs\TaskAutomate ..................... 79.13ms FAIL
+  2023-09-06 10:36:33 App\Jobs\TaskAutomate  2023-09-06 10:36:33 App\Jobs\TaskAutomate .................... 128.54ms FAIL
+ ..................... 92.27ms FAIL
+  2023-09-06 10:36:33 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:33 App\Jobs\TaskAutomate .................... 129.00ms FAIL
+  2023-09-06 10:36:33 App\Jobs\TaskAutomate ..................... 86.63ms FAIL
+  2023-09-06 10:36:33 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:33 App\Jobs\TaskAutomate .................... 101.88ms FAIL
+  2023-09-06 10:36:34 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:34 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:34 App\Jobs\TaskAutomate ..................... 84.48ms FAIL
+  2023-09-06 10:36:34 App\Jobs\TaskAutomate ..................... 98.69ms FAIL
+  2023-09-06 10:36:34 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:34 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:34 App\Jobs\TaskAutomate ..................... 94.26ms FAIL
+  2023-09-06 10:36:34 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:34 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:34 App\Jobs\TaskAutomate ..................... 89.95ms FAIL
+  2023-09-06 10:36:34 App\Jobs\TaskAutomate ..................... 85.77ms FAIL
+  2023-09-06 10:36:34 App\Jobs\TaskAutomate ..................... 91.66ms FAIL
+  2023-09-06 10:36:34 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:34 App\Jobs\TaskAutomate ..................... 76.04ms FAIL
+  2023-09-06 10:36:34 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:35 App\Jobs\TaskAutomate ..................... 74.00ms FAIL
+  2023-09-06 10:36:35 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:35 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:35 App\Jobs\TaskAutomate ..................... 79.76ms FAIL
+  2023-09-06 10:36:35 App\Jobs\TaskAutomate ..................... 90.72ms FAIL
+  2023-09-06 10:36:35 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:36 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:36 App\Jobs\TaskAutomate ..................... 96.41ms FAIL
+  2023-09-06 10:36:36 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:36 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:36 App\Jobs\TaskAutomate ..................... 88.67ms FAIL
+  2023-09-06 10:36:36 App\Jobs\TaskAutomate .................... 115.20ms FAIL
+  2023-09-06 10:36:36 App\Jobs\TaskAutomate .................... 105.37ms FAIL
+  2023-09-06 10:36:36 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:36 App\Jobs\TaskAutomate .................... 104.94ms FAIL
+  2023-09-06 10:36:36 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:36 App\Jobs\TaskAutomate ..................... 87.33ms FAIL
+  2023-09-06 10:36:37 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:37 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:37 App\Jobs\TaskAutomate ..................... 97.35ms FAIL
+  2023-09-06 10:36:37 App\Jobs\TaskAutomate ..................... 88.96ms FAIL
+  2023-09-06 10:36:37 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:37 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:37 App\Jobs\TaskAutomate ..................... 84.12ms FAIL
+  2023-09-06 10:36:37 App\Jobs\TaskAutomate ..................... 94.46ms FAIL
+  2023-09-06 10:36:37 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:37 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:37 App\Jobs\TaskAutomate .................... 105.47ms FAIL
+  2023-09-06 10:36:37 App\Jobs\TaskAutomate .................... 116.66ms FAIL
+  2023-09-06 10:36:37 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:37 App\Jobs\TaskAutomate ..................... 89.76ms FAIL
+  2023-09-06 10:36:37 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:37 App\Jobs\TaskAutomate ..................... 88.42ms FAIL
+  2023-09-06 10:36:38 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:38 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:38 App\Jobs\TaskAutomate ..................... 79.85ms FAIL
+  2023-09-06 10:36:38 App\Jobs\TaskAutomate ..................... 96.17ms FAIL
+  2023-09-06 10:36:38 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:38 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:38 App\Jobs\TaskAutomate .................... 103.21ms FAIL
+  2023-09-06 10:36:38 App\Jobs\TaskAutomate ..................... 93.08ms FAIL
+  2023-09-06 10:36:38 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:39 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:39 App\Jobs\TaskAutomate ..................... 74.67ms FAIL
+  2023-09-06 10:36:39 App\Jobs\TaskAutomate ..................... 99.05ms FAIL
+  2023-09-06 10:36:39 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:39 App\Jobs\TaskAutomate ..................... 80.37ms FAIL
+  2023-09-06 10:36:39 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:39 App\Jobs\TaskAutomate ..................... 80.14ms FAIL
+  2023-09-06 10:36:39 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:39 App\Jobs\TaskAutomate  2023-09-06 10:36:39 App\Jobs\TaskAutomate ..................... 76.68ms FAIL
+ .......................... RUNNING
+  2023-09-06 10:36:40 App\Jobs\TaskAutomate ..................... 92.46ms FAIL
+  2023-09-06 10:36:40 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:40 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:40 App\Jobs\TaskAutomate ..................... 96.56ms FAIL
+  2023-09-06 10:36:40 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:40 App\Jobs\TaskAutomate .................... 108.17ms FAIL
+  2023-09-06 10:36:40 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:40 App\Jobs\TaskAutomate ..................... 90.03ms FAIL
+  2023-09-06 10:36:40 App\Jobs\TaskAutomate ..................... 89.77ms FAIL
+  2023-09-06 10:36:40 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:40 App\Jobs\TaskAutomate ..................... 87.44ms FAIL
+  2023-09-06 10:36:40 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:40 App\Jobs\TaskAutomate ..................... 93.54ms FAIL
+  2023-09-06 10:36:41 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:41 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:41 App\Jobs\TaskAutomate ..................... 95.64ms FAIL
+  2023-09-06 10:36:41 App\Jobs\TaskAutomate ..................... 85.14ms FAIL
+  2023-09-06 10:36:41 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:41 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:41 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:41 App\Jobs\TaskAutomate ..................... 88.49ms FAIL
+  2023-09-06 10:36:41 App\Jobs\TaskAutomate  2023-09-06 10:36:41 App\Jobs\TaskAutomate .................... .......................... RUNNING
+ 118.04ms FAIL
+  2023-09-06 10:36:41 App\Jobs\TaskAutomate .................... 110.96ms FAIL
+  2023-09-06 10:36:41 App\Jobs\TaskAutomate .................... 115.58ms FAIL
+  2023-09-06 10:36:42 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:42 App\Jobs\TaskAutomate ..................... 83.86ms FAIL
+  2023-09-06 10:36:42 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:42 App\Jobs\TaskAutomate ..................... 81.47ms FAIL
+  2023-09-06 10:36:42 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:43 App\Jobs\TaskAutomate .................... 101.85ms FAIL
+  2023-09-06 10:36:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:43 App\Jobs\TaskAutomate .................... 100.40ms FAIL
+  2023-09-06 10:36:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:43 App\Jobs\TaskAutomate .................... 111.49ms FAIL
+  2023-09-06 10:36:43 App\Jobs\TaskAutomate .................... 103.69ms FAIL
+  2023-09-06 10:36:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:43 App\Jobs\TaskAutomate ..................... 91.50ms FAIL
+  2023-09-06 10:36:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:43 App\Jobs\TaskAutomate .................... 109.07ms FAIL
+  2023-09-06 10:36:43 App\Jobs\TaskAutomate .................... 123.72ms FAIL
+  2023-09-06 10:36:43 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:43 App\Jobs\TaskAutomate ..................... 88.95ms FAIL
+  2023-09-06 10:36:44 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:44 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:44 App\Jobs\TaskAutomate ..................... 96.49ms FAIL
+  2023-09-06 10:36:44 App\Jobs\TaskAutomate ..................... 97.05ms FAIL
+  2023-09-06 10:36:44 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:44 App\Jobs\TaskAutomate  2023-09-06 10:36:44 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:36:44 App\Jobs\TaskAutomate ..................... 70.76ms FAIL
+  2023-09-06 10:36:44 App\Jobs\TaskAutomate ..................... 95.51ms FAIL
+  2023-09-06 10:36:44 App\Jobs\TaskAutomate ..................... 90.10ms FAIL
+  2023-09-06 10:36:44 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:44 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:45 App\Jobs\TaskAutomate ..................... 99.12ms FAIL
+  2023-09-06 10:36:45 App\Jobs\TaskAutomate ..................... 98.71ms FAIL
+  2023-09-06 10:36:45 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:45 App\Jobs\TaskAutomate ..................... 80.03ms FAIL
+  2023-09-06 10:36:46 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:46 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:46 App\Jobs\TaskAutomate ..................... 63.93ms FAIL
+  2023-09-06 10:36:46 App\Jobs\TaskAutomate ..................... 68.15ms FAIL
+  2023-09-06 10:36:46 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:46 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:46 App\Jobs\TaskAutomate ..................... 96.71ms FAIL
+  2023-09-06 10:36:46 App\Jobs\TaskAutomate ..................... 98.53ms FAIL
+  2023-09-06 10:36:46 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:46 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:46 App\Jobs\TaskAutomate .................... 105.04ms FAIL
+  2023-09-06 10:36:46 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:46 App\Jobs\TaskAutomate ..................... 93.92ms FAIL
+  2023-09-06 10:36:46 App\Jobs\TaskAutomate ..................... 94.97ms FAIL
+  2023-09-06 10:36:46 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:46 App\Jobs\TaskAutomate ..................... 70.16ms FAIL
+  2023-09-06 10:36:47 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:47 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:47 App\Jobs\TaskAutomate .................... 116.71ms FAIL
+  2023-09-06 10:36:47 App\Jobs\TaskAutomate .................... 121.48ms FAIL
+  2023-09-06 10:36:47 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:47 App\Jobs\TaskAutomate ..................... 73.04ms FAIL
+  2023-09-06 10:36:47 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:47 App\Jobs\TaskAutomate ..................... 77.44ms FAIL
+  2023-09-06 10:36:47 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:47 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:48 App\Jobs\TaskAutomate ..................... 84.86ms FAIL
+  2023-09-06 10:36:48 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:48 App\Jobs\TaskAutomate ..................... 91.34ms FAIL
+  2023-09-06 10:36:48 App\Jobs\TaskAutomate ..................... 77.39ms FAIL
+  2023-09-06 10:36:48 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:48 App\Jobs\TaskAutomate ..................... 90.16ms FAIL
+  2023-09-06 10:36:48 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:48 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:48 App\Jobs\TaskAutomate ..................... 89.92ms FAIL
+  2023-09-06 10:36:48 App\Jobs\TaskAutomate ..................... 89.25ms FAIL
+  2023-09-06 10:36:49 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:49 App\Jobs\TaskAutomate ..................... 90.65ms FAIL
+  2023-09-06 10:36:49 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:49 App\Jobs\TaskAutomate ..................... 89.91ms FAIL
+  2023-09-06 10:36:49 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:49 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:49 App\Jobs\TaskAutomate  2023-09-06 10:36:49 App\Jobs\TaskAutomate ..................... 82.47ms FAIL
+ ..................... 96.61ms FAIL
+  2023-09-06 10:36:49 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:49 App\Jobs\TaskAutomate ..................... 88.45ms FAIL
+  2023-09-06 10:36:49 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:49 App\Jobs\TaskAutomate ..................... 95.78ms FAIL
+  2023-09-06 10:36:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:50 App\Jobs\TaskAutomate .................... 103.92ms FAIL
+  2023-09-06 10:36:50 App\Jobs\TaskAutomate ..................... 98.43ms FAIL
+  2023-09-06 10:36:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:50 App\Jobs\TaskAutomate ..................... 84.15ms FAIL
+  2023-09-06 10:36:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:50 App\Jobs\TaskAutomate ..................... 75.52ms FAIL
+  2023-09-06 10:36:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:50 App\Jobs\TaskAutomate ..................... 83.29ms FAIL
+  2023-09-06 10:36:50 App\Jobs\TaskAutomate ..................... 82.83ms FAIL
+  2023-09-06 10:36:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:51 App\Jobs\TaskAutomate ..................... 83.56ms FAIL
+  2023-09-06 10:36:51 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:51 App\Jobs\TaskAutomate ..................... 84.42ms FAIL
+  2023-09-06 10:36:51 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:51 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:51 App\Jobs\TaskAutomate ..................... 94.14ms FAIL
+  2023-09-06 10:36:51 App\Jobs\TaskAutomate ..................... 89.96ms FAIL
+  2023-09-06 10:36:52 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:52 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:52 App\Jobs\TaskAutomate ..................... 85.31ms FAIL
+  2023-09-06 10:36:52 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:52 App\Jobs\TaskAutomate ..................... 95.64ms FAIL
+  2023-09-06 10:36:52 App\Jobs\TaskAutomate .................... 103.42ms FAIL
+  2023-09-06 10:36:52 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:52 App\Jobs\TaskAutomate ..................... 91.05ms FAIL
+  2023-09-06 10:36:52 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:52 App\Jobs\TaskAutomate ..................... 99.42ms FAIL
+  2023-09-06 10:36:52 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:52 App\Jobs\TaskAutomate ..................... 78.02ms FAIL
+  2023-09-06 10:36:53 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:53 App\Jobs\TaskAutomate ..................... 70.86ms FAIL
+  2023-09-06 10:36:53 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:53 App\Jobs\TaskAutomate .................... 100.58ms FAIL
+  2023-09-06 10:36:53 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:53 App\Jobs\TaskAutomate ..................... 98.59ms FAIL
+  2023-09-06 10:36:53 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:53 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:53 App\Jobs\TaskAutomate .................... 104.09ms FAIL
+  2023-09-06 10:36:53 App\Jobs\TaskAutomate ..................... 81.65ms FAIL
+  2023-09-06 10:36:53 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:53 App\Jobs\TaskAutomate ..................... 84.90ms FAIL
+  2023-09-06 10:36:53 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:53 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:53 App\Jobs\TaskAutomate .................... 114.88ms FAIL
+  2023-09-06 10:36:54 App\Jobs\TaskAutomate .................... 105.61ms FAIL
+  2023-09-06 10:36:54 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:54 App\Jobs\TaskAutomate .................... 108.51ms FAIL
+  2023-09-06 10:36:54 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:54 App\Jobs\TaskAutomate .................... 101.26ms FAIL
+  2023-09-06 10:36:54 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:55 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:55 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:55 App\Jobs\TaskAutomate .................... 119.97ms FAIL
+  2023-09-06 10:36:55 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:55 App\Jobs\TaskAutomate .................... 114.26ms FAIL
+  2023-09-06 10:36:55 App\Jobs\TaskAutomate ..................... 99.03ms FAIL
+  2023-09-06 10:36:55 App\Jobs\TaskAutomate .................... 105.85ms FAIL
+  2023-09-06 10:36:55 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:55 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:55 App\Jobs\TaskAutomate ..................... 95.15ms FAIL
+  2023-09-06 10:36:55 App\Jobs\TaskAutomate ..................... 93.87ms FAIL
+  2023-09-06 10:36:56 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:56 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:56 App\Jobs\TaskAutomate .................... 213.93ms  2023-09-06 10:36:56 App\Jobs\TaskAutomate .................... 150.97ms FAIL
+ FAIL
+  2023-09-06 10:36:56 App\Jobs\TaskAutomate  2023-09-06 10:36:56 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:36:56 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:56 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:56 App\Jobs\TaskAutomate ..................... 91.82ms FAIL
+  2023-09-06 10:36:56 App\Jobs\TaskAutomate .................... 135.81ms FAIL
+  2023-09-06 10:36:56 App\Jobs\TaskAutomate .................... 137.00ms FAIL
+  2023-09-06 10:36:56 App\Jobs\TaskAutomate .................... 185.47ms FAIL
+  2023-09-06 10:36:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:57 App\Jobs\TaskAutomate ..................... 91.76ms FAIL
+  2023-09-06 10:36:57 App\Jobs\TaskAutomate .................... 170.73ms FAIL
+  2023-09-06 10:36:57 App\Jobs\TaskAutomate  2023-09-06 10:36:57 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:36:57 App\Jobs\TaskAutomate  2023-09-06 10:36:57 App\Jobs\TaskAutomate ..................... 83.90ms FAIL
+ ..................... 83.42ms FAIL
+  2023-09-06 10:36:58 App\Jobs\TaskAutomate ..........................  2023-09-06 10:36:58 App\Jobs\TaskAutomate  2023-09-06 10:36:58 App\Jobs\TaskAutomate RUNNING
+ .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:36:58 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:58 App\Jobs\TaskAutomate  2023-09-06 10:36:58 App\Jobs\TaskAutomate ....................  2023-09-06 10:36:58 App\Jobs\TaskAutomate .................... 138.62ms FAIL
+ 144.44ms FAIL
+ .................... 151.03ms FAIL
+  2023-09-06 10:36:58 App\Jobs\TaskAutomate .................... 141.06ms FAIL
+  2023-09-06 10:36:59 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:59 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:59 App\Jobs\TaskAutomate .................... 140.23ms FAIL
+  2023-09-06 10:36:59 App\Jobs\TaskAutomate .................... 211.73ms FAIL
+  2023-09-06 10:36:59 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:59 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:36:59 App\Jobs\TaskAutomate .................... 104.12ms FAIL
+  2023-09-06 10:36:59 App\Jobs\TaskAutomate .................... 103.64ms FAIL
+  2023-09-06 10:37:00 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:00 App\Jobs\TaskAutomate ..........................  2023-09-06 10:37:00 App\Jobs\TaskAutomate .......................... RUNNING
+ RUNNING
+  2023-09-06 10:37:00 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:00 App\Jobs\TaskAutomate ..................... 91.73ms FAIL
+  2023-09-06 10:37:00 App\Jobs\TaskAutomate .................... 142.23ms FAIL
+  2023-09-06 10:37:00 App\Jobs\TaskAutomate .................... 206.91ms FAIL
+  2023-09-06 10:37:00 App\Jobs\TaskAutomate .................... 213.29ms FAIL
+  2023-09-06 10:37:00 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:00 App\Jobs\TaskAutomate ..................... 91.78ms FAIL
+  2023-09-06 10:37:01 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:01 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:01 App\Jobs\TaskAutomate ..................... 90.06ms FAIL
+  2023-09-06 10:37:01 App\Jobs\TaskAutomate ..................... 87.57ms FAIL
+  2023-09-06 10:37:01 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:01 App\Jobs\TaskAutomate ..................... 91.45ms FAIL
+  2023-09-06 10:37:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:02 App\Jobs\TaskAutomate ..................... 93.90ms FAIL
+  2023-09-06 10:37:02 App\Jobs\TaskAutomate ..................... 98.77ms FAIL
+  2023-09-06 10:37:02 App\Jobs\TaskAutomate ..................... 98.21ms FAIL
+  2023-09-06 10:37:02 App\Jobs\TaskAutomate .................... 114.38ms FAIL
+  2023-09-06 10:37:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:02 App\Jobs\TaskAutomate .................... 119.32ms FAIL
+  2023-09-06 10:37:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:02 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:03 App\Jobs\TaskAutomate ..................... 95.93ms FAIL
+  2023-09-06 10:37:03 App\Jobs\TaskAutomate ..................... 90.16ms FAIL
+  2023-09-06 10:37:03 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:03 App\Jobs\TaskAutomate ..................... 94.28ms FAIL
+  2023-09-06 10:37:03 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:03 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:03 App\Jobs\TaskAutomate  2023-09-06 10:37:03 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:37:04 App\Jobs\TaskAutomate .................... 170.15ms FAIL
+  2023-09-06 10:37:04 App\Jobs\TaskAutomate .................... 134.77ms FAIL
+  2023-09-06 10:37:04 App\Jobs\TaskAutomate .................... 177.40ms FAIL
+  2023-09-06 10:37:04 App\Jobs\TaskAutomate .................... 143.66ms FAIL
+  2023-09-06 10:37:04 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:04 App\Jobs\TaskAutomate ..................... 94.71ms FAIL
+  2023-09-06 10:37:04 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:04 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:04 App\Jobs\TaskAutomate .................... 104.53ms FAIL
+  2023-09-06 10:37:04 App\Jobs\TaskAutomate .................... 101.29ms FAIL
+  2023-09-06 10:37:05 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:05 App\Jobs\TaskAutomate ..................... 85.28ms FAIL
+  2023-09-06 10:37:05 App\Jobs\TaskAutomate  2023-09-06 10:37:05 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+  2023-09-06 10:37:05 App\Jobs\TaskAutomate RUNNING
+  2023-09-06 10:37:05 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:37:16 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:16 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:16 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:17 App\Jobs\TaskAutomate .................... 144.30ms FAIL
+  2023-09-06 10:37:17 App\Jobs\TaskAutomate .................... 134.91ms FAIL
+  2023-09-06 10:37:17 App\Jobs\TaskAutomate .................... 145.26ms FAIL
+  2023-09-06 10:37:17 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:17 App\Jobs\TaskAutomate .................... 108.46ms FAIL
+  2023-09-06 10:37:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:18 App\Jobs\TaskAutomate  2023-09-06 10:37:18 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:37:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:18 App\Jobs\TaskAutomate .................... 112.97ms FAIL
+  2023-09-06 10:37:18 App\Jobs\TaskAutomate ..................... 99.07ms FAIL
+  2023-09-06 10:37:18 App\Jobs\TaskAutomate .................... 160.28ms FAIL
+  2023-09-06 10:37:18 App\Jobs\TaskAutomate .................... 108.14ms FAIL
+  2023-09-06 10:37:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:18 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:18 App\Jobs\TaskAutomate ..................... 83.70ms FAIL
+  2023-09-06 10:37:18 App\Jobs\TaskAutomate .................... 128.92ms FAIL
+  2023-09-06 10:37:18 App\Jobs\TaskAutomate ..................... 89.58ms FAIL
+  2023-09-06 10:37:19 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:19 App\Jobs\TaskAutomate .................... 144.44ms FAIL
+  2023-09-06 10:37:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:20 App\Jobs\TaskAutomate  2023-09-06 10:37:20 App\Jobs\TaskAutomate ..................... 97.03ms FAIL
+ ..................... 99.06ms FAIL
+  2023-09-06 10:37:20 App\Jobs\TaskAutomate .................... 121.77ms FAIL
+  2023-09-06 10:37:20 App\Jobs\TaskAutomate .................... 122.98ms FAIL
+  2023-09-06 10:37:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:20 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:20 App\Jobs\TaskAutomate .................... 102.49ms FAIL
+  2023-09-06 10:37:20 App\Jobs\TaskAutomate  2023-09-06 10:37:20 App\Jobs\TaskAutomate ..................... ..................... 90.37ms FAIL
+ 90.84ms FAIL
+  2023-09-06 10:37:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:21 App\Jobs\TaskAutomate .................... 132.19ms FAIL
+  2023-09-06 10:37:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:21 App\Jobs\TaskAutomate  2023-09-06 10:37:21 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:37:21 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:21 App\Jobs\TaskAutomate  2023-09-06 10:37:21 App\Jobs\TaskAutomate .................... 110.39ms FAIL
+ ....................  2023-09-06 10:37:21 App\Jobs\TaskAutomate 118.71ms FAIL
+ .................... 118.43ms FAIL
+  2023-09-06 10:37:21 App\Jobs\TaskAutomate .................... 102.27ms FAIL
+  2023-09-06 10:37:22 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:22 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:22 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:37:22 App\Jobs\TaskAutomate .................... 107.71ms FAIL
+  2023-09-06 10:37:22 App\Jobs\TaskAutomate .................... 107.14ms FAIL
+  2023-09-06 10:37:22 App\Jobs\TaskAutomate ..................... 98.35ms FAIL
+  2023-09-06 10:38:37 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:38:37 App\Jobs\TaskAutomate  2023-09-06 10:38:37 App\Jobs\TaskAutomate .......................... .......................... RUNNING
+ RUNNING
+  2023-09-06 10:38:41 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:38:57 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:41:42 App\Jobs\TaskAutomate  2023-09-06 10:41:42 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:41:42 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:41:42 App\Jobs\TaskAutomate .................... 219.75ms FAIL
+  2023-09-06 10:41:42 App\Jobs\TaskAutomate .................... 297.48ms FAIL
+  2023-09-06 10:42:22 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:42:40 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:42:40 App\Jobs\TaskAutomate  2023-09-06 10:42:40 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:42:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:42:50 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:50:35 App\Jobs\TaskAutomate  2023-09-06 10:50:36 App\Jobs\TaskAutomate .......................... RUNNING
+ .......................... RUNNING
+  2023-09-06 10:50:36 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:50:59 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:50:59 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:50:59 App\Jobs\TaskAutomate .................... 275.25ms FAIL
+  2023-09-06 10:50:59 App\Jobs\TaskAutomate .................... 360.58ms FAIL
+  2023-09-06 10:55:14 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:55:14 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:55:14 App\Jobs\TaskAutomate .......................... RUNNING
+  2023-09-06 10:55:18 App\Jobs\TaskAutomate .................. 3,582.57ms FAIL
+  2023-09-06 10:55:18 App\Jobs\TaskAutomate .................. 3,567.28ms FAIL
+  2023-09-06 10:55:18 App\Jobs\TaskAutomate .................. 3,571.18ms FAIL
